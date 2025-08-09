@@ -17,5 +17,6 @@ This project analyzes coffee sales data using **Excel** for cleaning and **Power
 - Weekends have 30% more sales than weekdays.
 
 ## 📸 Dashboard Preview
-<img width="877" height="409" alt="image" src="https://github.com/user-attachments/assets/664492e0-e472-4f88-a75d-e45bc9d99231" />
+<img width="887" height="499" alt="image" src="https://github.com/user-attachments/assets/f44a138f-40c2-4de6-88af-ae70af78c2d5" />
+
 
