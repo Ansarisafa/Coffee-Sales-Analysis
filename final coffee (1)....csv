@@ -1,0 +1,1134 @@
+date,datetime,cash_type,card,money,coffee_name,days,hours,month
+3/1/2024,15:50.5,card,ANON-0000-0000-0001,38.7,Latte,Friday,10,March
+3/1/2024,19:22.5,card,ANON-0000-0000-0002,38.7,Hot Chocolate,Friday,12,March
+3/1/2024,20:18.1,card,ANON-0000-0000-0002,38.7,Hot Chocolate,Friday,12,March
+3/1/2024,46:33.0,card,ANON-0000-0000-0003,28.9,Americano,Friday,13,March
+3/1/2024,48:14.6,card,ANON-0000-0000-0004,38.7,Latte,Friday,13,March
+3/1/2024,39:47.7,card,ANON-0000-0000-0005,33.8,Americano with Milk,Friday,15,March
+3/1/2024,19:02.8,card,ANON-0000-0000-0006,38.7,Hot Chocolate,Friday,16,March
+3/1/2024,39:03.6,card,ANON-0000-0000-0007,33.8,Americano with Milk,Friday,18,March
+3/1/2024,22:01.8,card,ANON-0000-0000-0008,38.7,Cocoa,Friday,19,March
+3/1/2024,23:15.9,card,ANON-0000-0000-0008,33.8,Americano with Milk,Friday,19,March
+3/1/2024,29:17.4,card,ANON-0000-0000-0009,33.8,Americano with Milk,Friday,19,March
+3/2/2024,22:07.0,card,ANON-0000-0000-0010,28.9,Americano,Saturday,10,March
+3/2/2024,30:35.7,cash,,40,Latte,Saturday,10,March
+3/2/2024,41:41.2,card,ANON-0000-0000-0011,33.8,Americano with Milk,Saturday,10,March
+3/2/2024,59:45.5,card,ANON-0000-0000-0012,33.8,Americano with Milk,Saturday,11,March
+3/2/2024,38:35.5,card,ANON-0000-0000-0013,28.9,Americano,Saturday,14,March
+3/2/2024,37:24.5,card,ANON-0000-0000-0014,33.8,Americano with Milk,Saturday,16,March
+3/2/2024,34:55.0,card,ANON-0000-0000-0004,28.9,Americano,Saturday,17,March
+3/3/2024,10:44.0,cash,,40,Latte,Sunday,10,March
+3/3/2024,27:18.6,card,ANON-0000-0000-0015,38.7,Latte,Sunday,10,March
+3/3/2024,33:56.1,card,ANON-0000-0000-0016,28.9,Cortado,Sunday,11,March
+3/3/2024,26:56.1,card,ANON-0000-0000-0012,28.9,Americano,Sunday,12,March
+3/3/2024,09:36.3,card,ANON-0000-0000-0017,38.7,Hot Chocolate,Sunday,13,March
+3/3/2024,06:40.3,card,ANON-0000-0000-0018,38.7,Cocoa,Sunday,17,March
+3/3/2024,08:45.9,card,ANON-0000-0000-0019,28.9,Cortado,Sunday,17,March
+3/3/2024,03:23.4,card,ANON-0000-0000-0020,33.8,Americano with Milk,Sunday,18,March
+3/3/2024,04:27.9,card,ANON-0000-0000-0020,33.8,Americano with Milk,Sunday,18,March
+3/3/2024,08:05.0,card,ANON-0000-0000-0020,38.7,Hot Chocolate,Sunday,18,March
+3/4/2024,03:52.0,card,ANON-0000-0000-0001,38.7,Latte,Monday,10,March
+3/4/2024,54:51.0,card,ANON-0000-0000-0021,38.7,Latte,Monday,10,March
+3/4/2024,05:16.2,card,ANON-0000-0000-0012,33.8,Americano with Milk,Monday,11,March
+3/4/2024,04:37.7,card,ANON-0000-0000-0022,24,Espresso,Monday,14,March
+3/5/2024,59:52.7,card,ANON-0000-0000-0001,38.7,Latte,Tuesday,9,March
+3/5/2024,34:56.0,card,ANON-0000-0000-0023,38.7,Latte,Tuesday,14,March
+3/5/2024,34:06.0,card,ANON-0000-0000-0024,38.7,Latte,Tuesday,17,March
+3/5/2024,35:25.0,card,ANON-0000-0000-0025,38.7,Hot Chocolate,Tuesday,17,March
+3/5/2024,36:28.6,card,ANON-0000-0000-0026,38.7,Cocoa,Tuesday,17,March
+3/5/2024,37:13.7,card,ANON-0000-0000-0027,38.7,Hot Chocolate,Tuesday,17,March
+3/5/2024,38:09.4,card,ANON-0000-0000-0009,38.7,Hot Chocolate,Tuesday,17,March
+3/5/2024,56:15.8,card,ANON-0000-0000-0028,28.9,Cortado,Tuesday,17,March
+3/5/2024,01:31.2,card,ANON-0000-0000-0028,38.7,Hot Chocolate,Tuesday,18,March
+3/6/2024,30:27.1,cash,,35,Americano with Milk,Wednesday,12,March
+3/6/2024,24:07.7,card,ANON-0000-0000-0012,28.9,Americano,Wednesday,13,March
+3/6/2024,25:14.4,card,ANON-0000-0000-0012,28.9,Cortado,Wednesday,13,March
+3/6/2024,52:01.8,card,ANON-0000-0000-0029,38.7,Cappuccino,Wednesday,14,March
+3/6/2024,53:18.3,card,ANON-0000-0000-0029,38.7,Cappuccino,Wednesday,14,March
+3/7/2024,08:58.9,cash,,40,Latte,Thursday,10,March
+3/7/2024,18:40.5,card,ANON-0000-0000-0030,38.7,Hot Chocolate,Thursday,10,March
+3/7/2024,03:59.0,card,ANON-0000-0000-0031,38.7,Latte,Thursday,11,March
+3/7/2024,25:44.0,cash,,40,Latte,Thursday,11,March
+3/7/2024,40:22.6,card,ANON-0000-0000-0032,28.9,Americano,Thursday,15,March
+3/7/2024,41:28.8,card,ANON-0000-0000-0033,33.8,Americano with Milk,Thursday,15,March
+3/8/2024,34:41.3,card,ANON-0000-0000-0012,28.9,Cortado,Friday,10,March
+3/8/2024,22:28.7,card,ANON-0000-0000-0034,38.7,Cappuccino,Friday,12,March
+3/8/2024,53:02.0,card,ANON-0000-0000-0035,28.9,Americano,Friday,13,March
+3/8/2024,44:12.7,card,ANON-0000-0000-0012,28.9,Americano,Friday,14,March
+3/8/2024,45:11.0,card,ANON-0000-0000-0033,28.9,Americano,Friday,14,March
+3/8/2024,46:11.2,card,ANON-0000-0000-0012,33.8,Americano with Milk,Friday,14,March
+3/8/2024,57:51.5,card,ANON-0000-0000-0036,38.7,Latte,Friday,18,March
+3/8/2024,59:24.9,card,ANON-0000-0000-0037,38.7,Latte,Friday,18,March
+3/9/2024,49:37.3,cash,,40,Hot Chocolate,Saturday,11,March
+3/9/2024,05:15.6,card,ANON-0000-0000-0038,24,Espresso,Saturday,12,March
+3/9/2024,07:38.3,card,ANON-0000-0000-0039,28.9,Americano,Saturday,12,March
+3/9/2024,09:47.7,card,ANON-0000-0000-0012,38.7,Cappuccino,Saturday,12,March
+3/9/2024,13:03.5,card,ANON-0000-0000-0040,28.9,Americano,Saturday,12,March
+3/9/2024,14:26.5,card,ANON-0000-0000-0040,28.9,Americano,Saturday,12,March
+3/9/2024,09:22.2,card,ANON-0000-0000-0041,38.7,Latte,Saturday,13,March
+3/9/2024,41:06.2,card,ANON-0000-0000-0042,33.8,Americano with Milk,Saturday,13,March
+3/9/2024,53:10.4,card,ANON-0000-0000-0043,28.9,Cortado,Saturday,13,March
+3/9/2024,54:36.8,card,ANON-0000-0000-0043,38.7,Cappuccino,Saturday,13,March
+3/9/2024,08:01.8,card,ANON-0000-0000-0009,33.8,Americano with Milk,Saturday,14,March
+3/9/2024,26:52.9,card,ANON-0000-0000-0044,38.7,Hot Chocolate,Saturday,14,March
+3/9/2024,17:57.6,card,ANON-0000-0000-0009,38.7,Cappuccino,Saturday,19,March
+3/9/2024,19:10.1,card,ANON-0000-0000-0009,38.7,Hot Chocolate,Saturday,19,March
+3/10/2024,44:18.5,cash,,30,Americano,Sunday,7,March
+3/10/2024,45:29.4,cash,,35,Americano with Milk,Sunday,7,March
+3/10/2024,06:03.0,cash,,40,Latte,Sunday,10,March
+3/10/2024,19:20.8,card,ANON-0000-0000-0045,24,Espresso,Sunday,11,March
+3/10/2024,51:03.0,cash,,35,Americano with Milk,Sunday,17,March
+3/10/2024,34:00.5,card,ANON-0000-0000-0046,38.7,Latte,Sunday,19,March
+3/10/2024,35:54.7,card,ANON-0000-0000-0046,28.9,Cortado,Sunday,19,March
+3/11/2024,18:46.7,cash,,40,Latte,Monday,10,March
+3/11/2024,24:15.0,cash,,40,Cappuccino,Monday,11,March
+3/11/2024,24:51.6,cash,,30,Cortado,Monday,11,March
+3/11/2024,26:44.2,cash,,30,Americano,Monday,11,March
+3/11/2024,32:58.8,card,ANON-0000-0000-0035,38.7,Cappuccino,Monday,11,March
+3/11/2024,24:26.4,card,ANON-0000-0000-0047,28.9,Americano,Monday,16,March
+3/11/2024,25:45.7,card,ANON-0000-0000-0047,38.7,Latte,Monday,16,March
+3/11/2024,50:49.6,card,ANON-0000-0000-0048,28.9,Cortado,Monday,16,March
+3/12/2024,15:00.3,cash,,40,Latte,Tuesday,10,March
+3/12/2024,15:34.5,card,ANON-0000-0000-0033,28.9,Americano,Tuesday,10,March
+3/12/2024,16:24.9,card,ANON-0000-0000-0033,28.9,Cortado,Tuesday,10,March
+3/12/2024,20:45.6,card,ANON-0000-0000-0049,38.7,Hot Chocolate,Tuesday,11,March
+3/12/2024,46:23.3,card,ANON-0000-0000-0004,33.8,Americano with Milk,Tuesday,12,March
+3/12/2024,47:26.0,card,ANON-0000-0000-0004,28.9,Americano,Tuesday,12,March
+3/12/2024,15:43.3,card,ANON-0000-0000-0050,28.9,Americano,Tuesday,16,March
+3/13/2024,06:43.0,card,ANON-0000-0000-0048,38.7,Hot Chocolate,Wednesday,11,March
+3/13/2024,48:16.8,card,ANON-0000-0000-0004,28.9,Americano,Wednesday,11,March
+3/13/2024,18:06.3,card,ANON-0000-0000-0051,28.9,Americano,Wednesday,12,March
+3/13/2024,19:05.1,card,ANON-0000-0000-0051,28.9,Americano,Wednesday,12,March
+3/13/2024,34:30.3,cash,,25,Espresso,Wednesday,12,March
+3/13/2024,26:40.9,card,ANON-0000-0000-0052,33.8,Americano with Milk,Wednesday,14,March
+3/13/2024,40:22.3,card,ANON-0000-0000-0053,24,Espresso,Wednesday,15,March
+3/13/2024,41:20.4,card,ANON-0000-0000-0053,24,Espresso,Wednesday,15,March
+3/13/2024,47:09.4,card,ANON-0000-0000-0054,24,Espresso,Wednesday,16,March
+3/14/2024,02:12.2,cash,,40,Latte,Thursday,10,March
+3/14/2024,28:33.0,card,ANON-0000-0000-0055,38.7,Latte,Thursday,10,March
+3/14/2024,29:34.3,card,ANON-0000-0000-0055,38.7,Hot Chocolate,Thursday,10,March
+3/14/2024,27:29.5,card,ANON-0000-0000-0012,28.9,Cortado,Thursday,13,March
+3/14/2024,28:24.5,card,ANON-0000-0000-0012,28.9,Americano,Thursday,13,March
+3/14/2024,51:59.9,card,ANON-0000-0000-0056,33.8,Americano with Milk,Thursday,13,March
+3/14/2024,52:56.2,card,ANON-0000-0000-0057,24,Espresso,Thursday,13,March
+3/14/2024,20:38.4,card,ANON-0000-0000-0058,38.7,Latte,Thursday,15,March
+3/14/2024,04:09.5,card,ANON-0000-0000-0059,33.8,Americano with Milk,Thursday,16,March
+3/14/2024,54:38.2,card,ANON-0000-0000-0050,24,Espresso,Thursday,16,March
+3/14/2024,58:55.9,card,ANON-0000-0000-0019,38.7,Hot Chocolate,Thursday,18,March
+3/14/2024,00:08.7,card,ANON-0000-0000-0012,28.9,Cortado,Thursday,19,March
+3/15/2024,02:16.5,cash,,40,Latte,Friday,10,March
+3/15/2024,53:02.2,card,ANON-0000-0000-0060,38.7,Hot Chocolate,Friday,10,March
+3/15/2024,19:27.9,card,ANON-0000-0000-0012,28.9,Americano,Friday,18,March
+3/16/2024,06:55.2,card,ANON-0000-0000-0061,33.8,Americano with Milk,Saturday,12,March
+3/16/2024,07:53.9,card,ANON-0000-0000-0061,28.9,Americano,Saturday,12,March
+3/16/2024,58:18.5,card,ANON-0000-0000-0009,28.9,Cortado,Saturday,15,March
+3/16/2024,03:21.7,card,ANON-0000-0000-0009,28.9,Cortado,Saturday,16,March
+3/16/2024,04:11.4,card,ANON-0000-0000-0012,28.9,Cortado,Saturday,16,March
+3/16/2024,58:07.2,card,ANON-0000-0000-0062,33.8,Americano with Milk,Saturday,17,March
+3/17/2024,10:21.4,cash,,40,Latte,Sunday,10,March
+3/17/2024,55:26.1,card,ANON-0000-0000-0063,28.9,Cortado,Sunday,12,March
+3/18/2024,17:59.7,card,ANON-0000-0000-0064,28.9,Cortado,Monday,11,March
+3/18/2024,31:39.7,card,ANON-0000-0000-0003,28.9,Americano,Monday,15,March
+3/18/2024,32:38.2,card,ANON-0000-0000-0003,28.9,Americano,Monday,15,March
+3/18/2024,33:36.7,card,ANON-0000-0000-0003,28.9,Americano,Monday,15,March
+3/19/2024,20:26.0,cash,,30,Cortado,Tuesday,10,March
+3/19/2024,02:21.5,card,ANON-0000-0000-0065,38.7,Latte,Tuesday,14,March
+3/19/2024,03:19.8,card,ANON-0000-0000-0065,38.7,Latte,Tuesday,14,March
+3/19/2024,04:36.3,card,ANON-0000-0000-0049,38.7,Hot Chocolate,Tuesday,15,March
+3/19/2024,53:48.7,card,ANON-0000-0000-0066,33.8,Americano with Milk,Tuesday,16,March
+3/19/2024,26:32.7,cash,,40,Hot Chocolate,Tuesday,19,March
+3/20/2024,41:16.4,card,ANON-0000-0000-0012,28.9,Cortado,Wednesday,11,March
+3/20/2024,21:07.7,cash,,40,Latte,Wednesday,12,March
+3/20/2024,30:49.0,card,ANON-0000-0000-0049,28.9,Cortado,Wednesday,12,March
+3/20/2024,16:47.4,card,ANON-0000-0000-0067,38.7,Cappuccino,Wednesday,13,March
+3/20/2024,42:38.1,card,ANON-0000-0000-0050,38.7,Cocoa,Wednesday,16,March
+3/20/2024,50:28.8,card,ANON-0000-0000-0068,38.7,Latte,Wednesday,17,March
+3/21/2024,18:57.0,cash,,40,Cappuccino,Thursday,10,March
+3/21/2024,25:09.2,card,ANON-0000-0000-0012,28.9,Cortado,Thursday,12,March
+3/21/2024,26:17.4,card,ANON-0000-0000-0012,38.7,Cappuccino,Thursday,12,March
+3/21/2024,21:01.5,cash,,30,Americano,Thursday,17,March
+3/21/2024,22:01.4,card,ANON-0000-0000-0012,28.9,Cortado,Thursday,17,March
+3/21/2024,20:36.5,card,ANON-0000-0000-0069,38.7,Latte,Thursday,19,March
+3/22/2024,35:53.6,card,ANON-0000-0000-0070,33.8,Americano with Milk,Friday,10,March
+3/22/2024,29:20.3,card,ANON-0000-0000-0071,33.8,Americano with Milk,Friday,13,March
+3/22/2024,15:14.4,cash,,40,Cappuccino,Friday,16,March
+3/22/2024,17:03.7,card,ANON-0000-0000-0012,28.9,Americano,Friday,17,March
+3/22/2024,17:59.0,card,ANON-0000-0000-0012,24,Espresso,Friday,17,March
+3/22/2024,20:49.5,card,ANON-0000-0000-0050,28.9,Americano,Friday,17,March
+3/23/2024,43:59.6,card,ANON-0000-0000-0072,38.7,Latte,Saturday,10,March
+3/23/2024,45:07.2,card,ANON-0000-0000-0073,33.8,Americano with Milk,Saturday,10,March
+3/23/2024,10:07.7,card,ANON-0000-0000-0074,38.7,Cappuccino,Saturday,13,March
+3/23/2024,11:12.2,card,ANON-0000-0000-0074,38.7,Cocoa,Saturday,13,March
+3/23/2024,44:41.3,card,ANON-0000-0000-0075,33.8,Americano with Milk,Saturday,14,March
+3/23/2024,47:19.1,card,ANON-0000-0000-0076,38.7,Latte,Saturday,15,March
+3/23/2024,49:33.8,card,ANON-0000-0000-0076,33.8,Americano with Milk,Saturday,15,March
+3/23/2024,00:58.4,card,ANON-0000-0000-0009,28.9,Cortado,Saturday,16,March
+3/24/2024,03:56.0,cash,,40,Latte,Sunday,10,March
+3/24/2024,45:08.4,card,ANON-0000-0000-0077,38.7,Latte,Sunday,18,March
+3/25/2024,31:47.2,card,ANON-0000-0000-0009,38.7,Latte,Monday,10,March
+3/25/2024,16:25.7,cash,,35,Americano with Milk,Monday,11,March
+3/25/2024,27:09.2,card,ANON-0000-0000-0078,38.7,Latte,Monday,14,March
+3/25/2024,29:25.3,card,ANON-0000-0000-0017,38.7,Latte,Monday,14,March
+3/25/2024,37:30.6,card,ANON-0000-0000-0024,33.8,Americano with Milk,Monday,18,March
+3/25/2024,34:24.5,card,ANON-0000-0000-0079,38.7,Cappuccino,Monday,19,March
+3/26/2024,35:49.7,card,ANON-0000-0000-0055,38.7,Cocoa,Tuesday,10,March
+3/26/2024,36:36.2,card,ANON-0000-0000-0055,38.7,Latte,Tuesday,10,March
+3/26/2024,42:30.2,card,ANON-0000-0000-0080,38.7,Latte,Tuesday,10,March
+3/26/2024,11:47.3,card,ANON-0000-0000-0009,28.9,Cortado,Tuesday,11,March
+3/26/2024,35:52.8,card,ANON-0000-0000-0003,28.9,Americano,Tuesday,13,March
+3/26/2024,36:49.6,card,ANON-0000-0000-0032,28.9,Cortado,Tuesday,13,March
+3/26/2024,37:59.7,card,ANON-0000-0000-0059,28.9,Cortado,Tuesday,13,March
+3/26/2024,57:53.7,card,ANON-0000-0000-0050,28.9,Americano,Tuesday,13,March
+3/26/2024,48:02.3,card,ANON-0000-0000-0081,38.7,Latte,Tuesday,15,March
+3/26/2024,33:38.6,card,ANON-0000-0000-0024,38.7,Latte,Tuesday,18,March
+3/26/2024,34:54.6,card,ANON-0000-0000-0009,38.7,Hot Chocolate,Tuesday,18,March
+3/27/2024,04:51.2,card,ANON-0000-0000-0003,28.9,Cortado,Wednesday,11,March
+3/27/2024,05:58.2,card,ANON-0000-0000-0003,33.8,Americano with Milk,Wednesday,11,March
+3/27/2024,57:00.5,card,ANON-0000-0000-0082,33.8,Americano with Milk,Wednesday,12,March
+3/27/2024,35:20.0,card,ANON-0000-0000-0083,38.7,Hot Chocolate,Wednesday,13,March
+3/27/2024,22:31.7,card,ANON-0000-0000-0012,38.7,Cappuccino,Wednesday,14,March
+3/27/2024,23:35.4,card,ANON-0000-0000-0012,28.9,Americano,Wednesday,14,March
+3/27/2024,30:11.8,card,ANON-0000-0000-0084,28.9,Cortado,Wednesday,18,March
+3/27/2024,31:12.4,cash,,40,Latte,Wednesday,19,March
+3/28/2024,24:47.1,card,ANON-0000-0000-0085,28.9,Cortado,Thursday,14,March
+3/28/2024,24:46.2,card,ANON-0000-0000-0012,28.9,Cortado,Thursday,17,March
+3/28/2024,27:05.3,card,ANON-0000-0000-0012,28.9,Americano,Thursday,17,March
+3/28/2024,32:44.7,card,ANON-0000-0000-0086,38.7,Latte,Thursday,17,March
+3/29/2024,56:19.5,card,ANON-0000-0000-0087,38.7,Latte,Friday,10,March
+3/29/2024,34:17.4,card,ANON-0000-0000-0088,38.7,Cappuccino,Friday,12,March
+3/29/2024,41:32.1,card,ANON-0000-0000-0088,38.7,Cappuccino,Friday,12,March
+3/29/2024,22:44.6,cash,,40,Cappuccino,Friday,13,March
+3/30/2024,59:19.9,card,ANON-0000-0000-0069,38.7,Latte,Saturday,11,March
+3/30/2024,49:25.8,cash,,40,Cappuccino,Saturday,13,March
+3/30/2024,12:31.8,card,ANON-0000-0000-0017,38.7,Latte,Saturday,16,March
+3/30/2024,36:40.5,card,ANON-0000-0000-0009,38.7,Latte,Saturday,16,March
+3/30/2024,37:57.6,card,ANON-0000-0000-0009,33.8,Americano with Milk,Saturday,16,March
+3/31/2024,40:04.5,card,ANON-0000-0000-0089,38.7,Cappuccino,Sunday,10,March
+3/31/2024,36:45.0,cash,,30,Americano,Sunday,19,March
+4/1/2024,28:47.6,card,ANON-0000-0000-0004,28.9,Americano,Monday,10,April
+4/1/2024,29:42.3,card,ANON-0000-0000-0004,33.8,Americano with Milk,Monday,10,April
+4/1/2024,30:43.7,card,ANON-0000-0000-0004,33.8,Americano with Milk,Monday,10,April
+4/1/2024,15:43.8,card,ANON-0000-0000-0009,33.8,Americano with Milk,Monday,11,April
+4/1/2024,01:42.9,cash,,40,Cappuccino,Monday,17,April
+4/1/2024,18:42.4,card,ANON-0000-0000-0024,33.8,Americano with Milk,Monday,18,April
+4/1/2024,45:27.4,card,ANON-0000-0000-0090,38.7,Hot Chocolate,Monday,18,April
+4/2/2024,01:14.0,card,ANON-0000-0000-0001,38.7,Latte,Tuesday,10,April
+4/2/2024,18:34.2,card,ANON-0000-0000-0003,28.9,Americano,Tuesday,16,April
+4/2/2024,19:28.5,card,ANON-0000-0000-0003,28.9,Cortado,Tuesday,16,April
+4/2/2024,59:31.9,cash,,40,Cappuccino,Tuesday,19,April
+4/3/2024,19:13.6,card,ANON-0000-0000-0003,28.9,Cortado,Wednesday,10,April
+4/3/2024,20:07.7,card,ANON-0000-0000-0003,28.9,Americano,Wednesday,10,April
+4/3/2024,12:05.4,card,ANON-0000-0000-0012,38.7,Cappuccino,Wednesday,13,April
+4/3/2024,36:11.7,cash,,30,Cortado,Wednesday,15,April
+4/4/2024,44:56.0,card,ANON-0000-0000-0091,38.7,Latte,Thursday,10,April
+4/4/2024,26:38.1,card,ANON-0000-0000-0092,38.7,Latte,Thursday,11,April
+4/4/2024,27:48.4,card,ANON-0000-0000-0093,38.7,Cappuccino,Thursday,11,April
+4/4/2024,23:02.2,card,ANON-0000-0000-0094,28.9,Cortado,Thursday,12,April
+4/4/2024,42:07.7,cash,,40,Latte,Thursday,19,April
+4/5/2024,40:42.7,card,ANON-0000-0000-0095,28.9,Americano,Friday,10,April
+4/5/2024,42:06.2,card,ANON-0000-0000-0012,28.9,Americano,Friday,10,April
+4/5/2024,06:14.6,card,ANON-0000-0000-0096,28.9,Cortado,Friday,11,April
+4/5/2024,14:28.0,card,ANON-0000-0000-0097,33.8,Americano with Milk,Friday,12,April
+4/5/2024,23:40.4,card,ANON-0000-0000-0098,38.7,Latte,Friday,14,April
+4/5/2024,24:50.4,card,ANON-0000-0000-0098,28.9,Cortado,Friday,14,April
+4/5/2024,30:50.4,cash,,40,Latte,Friday,15,April
+4/5/2024,54:15.8,cash,,40,Cappuccino,Friday,15,April
+4/5/2024,55:30.9,cash,,30,Americano,Friday,15,April
+4/5/2024,17:44.0,cash,,40,Cocoa,Friday,16,April
+4/5/2024,18:23.6,card,ANON-0000-0000-0003,24,Espresso,Friday,16,April
+4/6/2024,32:31.4,card,ANON-0000-0000-0099,33.8,Americano with Milk,Saturday,12,April
+4/6/2024,13:18.7,card,ANON-0000-0000-0040,38.7,Cappuccino,Saturday,14,April
+4/6/2024,14:27.0,card,ANON-0000-0000-0040,28.9,Americano,Saturday,14,April
+4/6/2024,49:50.2,card,ANON-0000-0000-0009,38.7,Latte,Saturday,14,April
+4/7/2024,12:53.2,card,ANON-0000-0000-0091,38.7,Latte,Sunday,10,April
+4/7/2024,44:31.9,card,ANON-0000-0000-0040,38.7,Cappuccino,Sunday,12,April
+4/7/2024,46:05.1,card,ANON-0000-0000-0040,38.7,Cappuccino,Sunday,12,April
+4/7/2024,16:24.9,card,ANON-0000-0000-0100,28.9,Cortado,Sunday,14,April
+4/7/2024,17:30.6,card,ANON-0000-0000-0100,24,Espresso,Sunday,14,April
+4/7/2024,01:16.6,card,ANON-0000-0000-0101,38.7,Hot Chocolate,Sunday,18,April
+4/7/2024,02:03.9,card,ANON-0000-0000-0101,33.8,Americano with Milk,Sunday,18,April
+4/8/2024,58:21.1,card,ANON-0000-0000-0102,33.8,Americano with Milk,Monday,10,April
+4/8/2024,59:27.6,card,ANON-0000-0000-0103,38.7,Cappuccino,Monday,10,April
+4/8/2024,01:20.5,card,ANON-0000-0000-0012,28.9,Americano,Monday,11,April
+4/8/2024,04:47.0,card,ANON-0000-0000-0104,38.7,Cappuccino,Monday,11,April
+4/8/2024,54:25.9,cash,,25,Espresso,Monday,12,April
+4/8/2024,43:36.9,cash,,35,Americano with Milk,Monday,15,April
+4/8/2024,41:37.8,card,ANON-0000-0000-0017,38.7,Latte,Monday,16,April
+4/8/2024,18:09.7,card,ANON-0000-0000-0105,28.9,Americano,Monday,18,April
+4/8/2024,22:27.5,card,ANON-0000-0000-0024,33.8,Americano with Milk,Monday,19,April
+4/8/2024,23:59.3,card,ANON-0000-0000-0106,38.7,Cappuccino,Monday,19,April
+4/9/2024,22:27.4,cash,,40,Cappuccino,Tuesday,10,April
+4/9/2024,24:10.1,cash,,30,Americano,Tuesday,10,April
+4/9/2024,42:28.5,card,ANON-0000-0000-0091,38.7,Latte,Tuesday,11,April
+4/9/2024,11:48.7,card,ANON-0000-0000-0107,38.7,Hot Chocolate,Tuesday,15,April
+4/9/2024,25:23.9,card,ANON-0000-0000-0049,38.7,Hot Chocolate,Tuesday,17,April
+4/10/2024,21:26.2,cash,,25,Espresso,Wednesday,10,April
+4/10/2024,55:07.0,cash,,40,Hot Chocolate,Wednesday,17,April
+4/10/2024,55:31.2,card,ANON-0000-0000-0108,24,Espresso,Wednesday,17,April
+4/10/2024,24:59.3,card,ANON-0000-0000-0009,38.7,Cappuccino,Wednesday,18,April
+4/10/2024,04:05.4,card,ANON-0000-0000-0109,38.7,Latte,Wednesday,20,April
+4/11/2024,41:23.2,card,ANON-0000-0000-0110,28.9,Americano,Thursday,10,April
+4/11/2024,42:59.4,card,ANON-0000-0000-0110,28.9,Americano,Thursday,10,April
+4/11/2024,35:23.1,card,ANON-0000-0000-0017,38.7,Latte,Thursday,16,April
+4/11/2024,16:56.6,card,ANON-0000-0000-0106,38.7,Cappuccino,Thursday,19,April
+4/11/2024,18:36.6,card,ANON-0000-0000-0024,33.8,Americano with Milk,Thursday,19,April
+4/12/2024,03:43.4,card,ANON-0000-0000-0019,38.7,Hot Chocolate,Friday,19,April
+4/12/2024,38:23.2,card,ANON-0000-0000-0009,28.9,Cortado,Friday,19,April
+4/13/2024,29:19.8,card,ANON-0000-0000-0009,38.7,Latte,Saturday,12,April
+4/13/2024,43:02.4,card,ANON-0000-0000-0012,28.9,Americano,Saturday,12,April
+4/13/2024,06:52.3,cash,,40,Hot Chocolate,Saturday,15,April
+4/13/2024,07:56.0,cash,,40,Hot Chocolate,Saturday,15,April
+4/13/2024,18:03.9,card,ANON-0000-0000-0111,38.7,Cappuccino,Saturday,16,April
+4/13/2024,19:39.8,card,ANON-0000-0000-0111,38.7,Latte,Saturday,16,April
+4/13/2024,51:26.0,card,ANON-0000-0000-0112,38.7,Cappuccino,Saturday,17,April
+4/13/2024,53:19.2,card,ANON-0000-0000-0012,38.7,Cappuccino,Saturday,17,April
+4/14/2024,55:27.4,cash,,40,Latte,Sunday,10,April
+4/14/2024,24:39.0,card,ANON-0000-0000-0113,38.7,Cappuccino,Sunday,12,April
+4/14/2024,27:09.0,cash,,30,Cortado,Sunday,12,April
+4/14/2024,29:06.9,cash,,30,Cortado,Sunday,12,April
+4/14/2024,31:36.0,cash,,35,Americano with Milk,Sunday,12,April
+4/14/2024,21:49.8,card,ANON-0000-0000-0114,28.9,Cortado,Sunday,13,April
+4/14/2024,23:31.6,card,ANON-0000-0000-0012,28.9,Americano,Sunday,14,April
+4/14/2024,24:26.9,card,ANON-0000-0000-0012,28.9,Americano,Sunday,14,April
+4/14/2024,25:18.1,card,ANON-0000-0000-0012,28.9,Americano,Sunday,14,April
+4/14/2024,46:27.7,card,ANON-0000-0000-0017,38.7,Cappuccino,Sunday,15,April
+4/14/2024,59:54.8,card,ANON-0000-0000-0012,28.9,Cortado,Sunday,16,April
+4/14/2024,00:45.4,card,ANON-0000-0000-0019,38.7,Latte,Sunday,17,April
+4/14/2024,38:19.6,card,ANON-0000-0000-0115,38.7,Cappuccino,Sunday,18,April
+4/15/2024,45:24.6,card,ANON-0000-0000-0064,28.9,Americano,Monday,11,April
+4/15/2024,01:46.4,card,ANON-0000-0000-0003,28.9,Americano,Monday,17,April
+4/15/2024,02:49.7,card,ANON-0000-0000-0004,33.8,Americano with Milk,Monday,17,April
+4/15/2024,33:03.0,card,ANON-0000-0000-0009,33.8,Americano with Milk,Monday,19,April
+4/15/2024,41:58.1,cash,,25,Espresso,Monday,19,April
+4/16/2024,43:49.9,cash,,35,Americano with Milk,Tuesday,10,April
+4/16/2024,46:25.7,card,ANON-0000-0000-0116,33.8,Americano with Milk,Tuesday,10,April
+4/16/2024,40:47.7,card,ANON-0000-0000-0117,38.7,Cocoa,Tuesday,12,April
+4/16/2024,52:07.7,card,ANON-0000-0000-0064,28.9,Cortado,Tuesday,12,April
+4/16/2024,03:16.9,card,ANON-0000-0000-0118,28.9,Americano,Tuesday,15,April
+4/16/2024,42:04.2,card,ANON-0000-0000-0024,33.8,Americano with Milk,Tuesday,17,April
+4/16/2024,43:23.0,card,ANON-0000-0000-0009,38.7,Cappuccino,Tuesday,17,April
+4/16/2024,09:05.3,card,ANON-0000-0000-0050,38.7,Cocoa,Tuesday,18,April
+4/17/2024,32:59.8,card,ANON-0000-0000-0012,28.9,Americano,Wednesday,13,April
+4/17/2024,44:00.2,card,ANON-0000-0000-0119,24,Espresso,Wednesday,13,April
+4/17/2024,13:24.3,cash,,40,Cappuccino,Wednesday,16,April
+4/17/2024,01:35.1,card,ANON-0000-0000-0120,38.7,Cappuccino,Wednesday,17,April
+4/17/2024,02:40.7,card,ANON-0000-0000-0120,38.7,Cappuccino,Wednesday,17,April
+4/17/2024,14:03.2,card,ANON-0000-0000-0121,28.9,Cortado,Wednesday,18,April
+4/18/2024,19:01.7,card,ANON-0000-0000-0003,28.9,Americano,Thursday,11,April
+4/18/2024,20:05.7,card,ANON-0000-0000-0003,28.9,Americano,Thursday,11,April
+4/18/2024,49:12.7,card,ANON-0000-0000-0122,33.8,Americano with Milk,Thursday,13,April
+4/18/2024,50:17.3,card,ANON-0000-0000-0122,28.9,Cortado,Thursday,13,April
+4/18/2024,34:19.8,card,ANON-0000-0000-0123,38.7,Cappuccino,Thursday,14,April
+4/18/2024,35:49.4,card,ANON-0000-0000-0123,38.7,Latte,Thursday,14,April
+4/18/2024,44:15.8,card,ANON-0000-0000-0069,38.7,Latte,Thursday,17,April
+4/18/2024,21:05.9,card,ANON-0000-0000-0085,38.7,Cappuccino,Thursday,18,April
+4/18/2024,39:51.2,card,ANON-0000-0000-0024,38.7,Hot Chocolate,Thursday,19,April
+4/18/2024,40:49.0,card,ANON-0000-0000-0009,38.7,Hot Chocolate,Thursday,19,April
+4/19/2024,10:36.3,card,ANON-0000-0000-0001,38.7,Latte,Friday,10,April
+4/19/2024,11:47.8,card,ANON-0000-0000-0040,33.8,Americano with Milk,Friday,13,April
+4/19/2024,13:20.9,card,ANON-0000-0000-0040,38.7,Cappuccino,Friday,13,April
+4/19/2024,58:54.1,card,ANON-0000-0000-0124,38.7,Hot Chocolate,Friday,13,April
+4/19/2024,59:49.7,card,ANON-0000-0000-0124,38.7,Cappuccino,Friday,13,April
+4/19/2024,23:19.3,card,ANON-0000-0000-0024,38.7,Cocoa,Friday,18,April
+4/19/2024,25:33.4,card,ANON-0000-0000-0009,33.8,Americano with Milk,Friday,18,April
+4/20/2024,24:42.7,cash,,35,Americano with Milk,Saturday,11,April
+4/20/2024,08:35.7,card,ANON-0000-0000-0125,33.8,Americano with Milk,Saturday,12,April
+4/20/2024,09:42.7,card,ANON-0000-0000-0125,33.8,Americano with Milk,Saturday,12,April
+4/20/2024,08:37.4,card,ANON-0000-0000-0118,28.9,Americano,Saturday,13,April
+4/20/2024,09:47.9,card,ANON-0000-0000-0118,33.8,Americano with Milk,Saturday,13,April
+4/20/2024,10:55.2,card,ANON-0000-0000-0118,38.7,Hot Chocolate,Saturday,13,April
+4/20/2024,44:18.1,card,ANON-0000-0000-0040,38.7,Cappuccino,Saturday,14,April
+4/20/2024,11:00.3,card,ANON-0000-0000-0009,33.8,Americano with Milk,Saturday,15,April
+4/20/2024,22:40.7,card,ANON-0000-0000-0012,32.82,Americano with Milk,Saturday,15,April
+4/20/2024,49:25.1,card,ANON-0000-0000-0126,32.82,Americano with Milk,Saturday,15,April
+4/20/2024,07:58.0,cash,,39,Cocoa,Saturday,17,April
+4/20/2024,27:41.5,card,ANON-0000-0000-0127,37.72,Cappuccino,Saturday,18,April
+4/20/2024,28:46.9,card,ANON-0000-0000-0127,37.72,Cappuccino,Saturday,18,April
+4/20/2024,30:55.3,card,ANON-0000-0000-0128,37.72,Latte,Saturday,19,April
+4/21/2024,16:45.7,card,ANON-0000-0000-0001,37.72,Latte,Sunday,11,April
+4/21/2024,15:37.5,card,ANON-0000-0000-0099,27.92,Americano,Sunday,14,April
+4/21/2024,09:03.2,cash,,39,Cappuccino,Sunday,17,April
+4/22/2024,09:16.4,card,ANON-0000-0000-0012,27.92,Americano,Monday,11,April
+4/22/2024,29:27.1,card,ANON-0000-0000-0129,32.82,Americano with Milk,Monday,11,April
+4/22/2024,40:33.0,cash,,39,Latte,Monday,18,April
+4/22/2024,39:04.8,card,ANON-0000-0000-0009,37.72,Latte,Monday,19,April
+4/22/2024,02:29.2,cash,,39,Cappuccino,Monday,20,April
+4/23/2024,22:36.0,card,ANON-0000-0000-0025,37.72,Cappuccino,Tuesday,14,April
+4/23/2024,23:53.1,card,ANON-0000-0000-0024,32.82,Americano with Milk,Tuesday,14,April
+4/23/2024,24:57.5,card,ANON-0000-0000-0009,37.72,Cappuccino,Tuesday,14,April
+4/23/2024,42:27.8,card,ANON-0000-0000-0130,32.82,Americano with Milk,Tuesday,19,April
+4/23/2024,43:26.2,card,ANON-0000-0000-0130,32.82,Americano with Milk,Tuesday,19,April
+4/24/2024,19:38.3,card,ANON-0000-0000-0001,37.72,Latte,Wednesday,10,April
+4/24/2024,21:27.3,card,ANON-0000-0000-0131,32.82,Americano with Milk,Wednesday,10,April
+4/24/2024,23:46.1,card,ANON-0000-0000-0132,32.82,Americano with Milk,Wednesday,11,April
+4/24/2024,33:26.3,card,ANON-0000-0000-0133,32.82,Americano with Milk,Wednesday,11,April
+4/24/2024,39:09.3,card,ANON-0000-0000-0059,32.82,Americano with Milk,Wednesday,12,April
+4/24/2024,39:07.4,card,ANON-0000-0000-0009,32.82,Americano with Milk,Wednesday,16,April
+4/24/2024,39:50.0,card,ANON-0000-0000-0134,32.82,Americano with Milk,Wednesday,19,April
+4/24/2024,40:54.0,card,ANON-0000-0000-0134,37.72,Cappuccino,Wednesday,19,April
+4/25/2024,46:08.1,card,ANON-0000-0000-0135,27.92,Americano,Thursday,10,April
+4/25/2024,18:27.0,card,ANON-0000-0000-0009,37.72,Latte,Thursday,15,April
+4/25/2024,09:43.5,card,ANON-0000-0000-0012,27.92,Americano,Thursday,17,April
+4/25/2024,10:49.2,card,ANON-0000-0000-0012,27.92,Americano,Thursday,17,April
+4/26/2024,12:50.6,card,ANON-0000-0000-0001,37.72,Latte,Friday,10,April
+4/26/2024,01:30.6,card,ANON-0000-0000-0136,37.72,Latte,Friday,12,April
+4/26/2024,31:28.3,card,ANON-0000-0000-0137,37.72,Cappuccino,Friday,13,April
+4/26/2024,32:35.4,card,ANON-0000-0000-0012,27.92,Americano,Friday,15,April
+4/26/2024,33:33.1,card,ANON-0000-0000-0012,27.92,Americano,Friday,15,April
+4/26/2024,23:26.5,card,ANON-0000-0000-0138,27.92,Cortado,Friday,16,April
+4/26/2024,24:33.8,card,ANON-0000-0000-0139,27.92,Americano,Friday,16,April
+4/26/2024,32:07.1,card,ANON-0000-0000-0009,37.72,Hot Chocolate,Friday,19,April
+4/26/2024,33:30.2,card,ANON-0000-0000-0009,37.72,Cocoa,Friday,19,April
+4/27/2024,27:00.7,card,ANON-0000-0000-0009,37.72,Cappuccino,Saturday,15,April
+4/28/2024,32:52.5,card,ANON-0000-0000-0001,37.72,Latte,Sunday,10,April
+4/28/2024,30:09.7,card,ANON-0000-0000-0140,37.72,Cappuccino,Sunday,12,April
+4/28/2024,27:08.2,card,ANON-0000-0000-0012,27.92,Americano,Sunday,18,April
+4/28/2024,28:11.4,card,ANON-0000-0000-0012,27.92,Americano,Sunday,18,April
+4/28/2024,29:02.4,card,ANON-0000-0000-0019,37.72,Latte,Sunday,18,April
+4/29/2024,26:31.9,card,ANON-0000-0000-0141,27.92,Cortado,Monday,11,April
+4/29/2024,27:56.9,card,ANON-0000-0000-0003,27.92,Americano,Monday,13,April
+4/29/2024,28:53.9,card,ANON-0000-0000-0003,27.92,Cortado,Monday,13,April
+4/29/2024,53:35.7,card,ANON-0000-0000-0141,27.92,Cortado,Monday,13,April
+4/29/2024,54:24.4,card,ANON-0000-0000-0141,32.82,Americano with Milk,Monday,13,April
+4/29/2024,37:48.4,card,ANON-0000-0000-0140,37.72,Cappuccino,Monday,18,April
+4/29/2024,12:33.2,card,ANON-0000-0000-0134,37.72,Cappuccino,Monday,19,April
+4/29/2024,13:37.9,card,ANON-0000-0000-0134,37.72,Cappuccino,Monday,19,April
+4/30/2024,16:41.5,card,ANON-0000-0000-0142,37.72,Latte,Tuesday,10,April
+4/30/2024,34:52.2,card,ANON-0000-0000-0142,32.82,Americano with Milk,Tuesday,10,April
+4/30/2024,35:47.6,card,ANON-0000-0000-0142,32.82,Americano with Milk,Tuesday,10,April
+4/30/2024,41:52.3,card,ANON-0000-0000-0142,27.92,Americano,Tuesday,13,April
+4/30/2024,43:00.0,card,ANON-0000-0000-0142,32.82,Americano with Milk,Tuesday,13,April
+4/30/2024,19:18.1,card,ANON-0000-0000-0142,37.72,Cappuccino,Tuesday,19,April
+4/30/2024,30:04.0,card,ANON-0000-0000-0142,32.82,Americano with Milk,Tuesday,19,April
+4/30/2024,31:21.0,card,ANON-0000-0000-0142,37.72,Latte,Tuesday,19,April
+5/2/2024,33:55.7,card,ANON-0000-0000-0143,27.92,Americano,Thursday,10,May
+5/2/2024,29:57.1,cash,,39,Latte,Thursday,11,May
+5/2/2024,49:39.9,card,ANON-0000-0000-0133,32.82,Americano with Milk,Thursday,13,May
+5/2/2024,36:22.1,card,ANON-0000-0000-0144,37.72,Cappuccino,Thursday,18,May
+5/2/2024,41:11.2,card,ANON-0000-0000-0024,32.82,Americano with Milk,Thursday,18,May
+5/2/2024,18:33.1,card,ANON-0000-0000-0145,37.72,Latte,Thursday,19,May
+5/2/2024,19:56.4,card,ANON-0000-0000-0145,37.72,Cappuccino,Thursday,19,May
+5/3/2024,11:53.4,cash,,39,Latte,Friday,10,May
+5/3/2024,30:00.9,card,ANON-0000-0000-0146,37.72,Latte,Friday,14,May
+5/3/2024,03:24.9,card,ANON-0000-0000-0147,37.72,Latte,Friday,17,May
+5/6/2024,05:17.9,card,ANON-0000-0000-0148,27.92,Americano,Monday,10,May
+5/6/2024,06:51.6,card,ANON-0000-0000-0149,37.72,Cappuccino,Monday,10,May
+5/6/2024,08:05.9,card,ANON-0000-0000-0149,32.82,Americano with Milk,Monday,10,May
+5/6/2024,09:08.0,card,ANON-0000-0000-0150,27.92,Americano,Monday,10,May
+5/6/2024,39:12.6,card,ANON-0000-0000-0141,27.92,Cortado,Monday,10,May
+5/6/2024,34:20.6,cash,,29,Americano,Monday,11,May
+5/6/2024,18:11.0,card,ANON-0000-0000-0148,27.92,Cortado,Monday,13,May
+5/6/2024,19:00.8,card,ANON-0000-0000-0148,27.92,Americano,Monday,13,May
+5/6/2024,18:13.0,card,ANON-0000-0000-0151,37.72,Cappuccino,Monday,19,May
+5/6/2024,19:49.5,card,ANON-0000-0000-0151,37.72,Cappuccino,Monday,19,May
+5/7/2024,44:55.6,card,ANON-0000-0000-0148,37.72,Cocoa,Tuesday,10,May
+5/7/2024,21:58.5,card,ANON-0000-0000-0141,27.92,Cortado,Tuesday,11,May
+5/7/2024,23:34.9,card,ANON-0000-0000-0077,27.92,Cortado,Tuesday,13,May
+5/7/2024,42:07.9,card,ANON-0000-0000-0148,37.72,Cocoa,Tuesday,16,May
+5/7/2024,55:38.8,card,ANON-0000-0000-0152,27.92,Americano,Tuesday,16,May
+5/7/2024,37:46.4,card,ANON-0000-0000-0153,37.72,Cappuccino,Tuesday,17,May
+5/7/2024,38:48.2,card,ANON-0000-0000-0153,37.72,Latte,Tuesday,17,May
+5/7/2024,35:37.2,cash,,34,Americano with Milk,Tuesday,18,May
+5/7/2024,12:12.5,card,ANON-0000-0000-0154,37.72,Cappuccino,Tuesday,19,May
+5/7/2024,13:12.2,card,ANON-0000-0000-0154,37.72,Cappuccino,Tuesday,19,May
+5/8/2024,07:28.9,card,ANON-0000-0000-0001,37.72,Latte,Wednesday,10,May
+5/9/2024,54:21.8,card,ANON-0000-0000-0155,37.72,Cappuccino,Thursday,12,May
+5/9/2024,03:58.6,card,ANON-0000-0000-0156,27.92,Americano,Thursday,13,May
+5/9/2024,04:57.6,card,ANON-0000-0000-0156,37.72,Latte,Thursday,13,May
+5/9/2024,06:11.3,card,ANON-0000-0000-0156,37.72,Latte,Thursday,13,May
+5/9/2024,07:16.4,card,ANON-0000-0000-0156,37.72,Latte,Thursday,13,May
+5/9/2024,55:14.6,card,ANON-0000-0000-0118,27.92,Americano,Thursday,16,May
+5/9/2024,56:15.0,card,ANON-0000-0000-0118,27.92,Americano,Thursday,16,May
+5/9/2024,01:29.9,card,ANON-0000-0000-0157,27.92,Americano,Thursday,18,May
+5/9/2024,13:56.2,card,ANON-0000-0000-0143,32.82,Americano with Milk,Thursday,18,May
+5/10/2024,09:22.0,cash,,39,Latte,Friday,10,May
+5/10/2024,46:21.5,card,ANON-0000-0000-0158,37.72,Latte,Friday,15,May
+5/10/2024,47:32.5,card,ANON-0000-0000-0158,37.72,Latte,Friday,15,May
+5/10/2024,20:15.1,cash,,34,Americano with Milk,Friday,16,May
+5/11/2024,39:52.9,card,ANON-0000-0000-0069,37.72,Latte,Saturday,11,May
+5/11/2024,02:43.6,cash,,39,Latte,Saturday,17,May
+5/11/2024,20:30.4,card,ANON-0000-0000-0009,32.82,Americano with Milk,Saturday,17,May
+5/11/2024,21:56.1,card,ANON-0000-0000-0026,37.72,Cocoa,Saturday,17,May
+5/11/2024,23:57.3,card,ANON-0000-0000-0040,37.72,Cappuccino,Saturday,17,May
+5/11/2024,28:54.1,card,ANON-0000-0000-0012,32.82,Americano with Milk,Saturday,17,May
+5/11/2024,35:40.3,card,ANON-0000-0000-0115,37.72,Cappuccino,Saturday,18,May
+5/11/2024,38:16.1,card,ANON-0000-0000-0159,37.72,Latte,Saturday,19,May
+5/12/2024,20:42.5,card,ANON-0000-0000-0001,37.72,Latte,Sunday,10,May
+5/12/2024,24:03.5,card,ANON-0000-0000-0160,37.72,Latte,Sunday,13,May
+5/12/2024,27:39.0,card,ANON-0000-0000-0161,27.92,Americano,Sunday,13,May
+5/12/2024,16:19.8,card,ANON-0000-0000-0077,37.72,Latte,Sunday,15,May
+5/12/2024,38:02.4,card,ANON-0000-0000-0162,32.82,Americano with Milk,Sunday,15,May
+5/12/2024,52:14.9,card,ANON-0000-0000-0163,32.82,Americano with Milk,Sunday,15,May
+5/12/2024,04:21.1,card,ANON-0000-0000-0012,32.82,Americano with Milk,Sunday,16,May
+5/12/2024,41:30.6,card,ANON-0000-0000-0009,32.82,Americano with Milk,Sunday,19,May
+5/13/2024,03:53.3,card,ANON-0000-0000-0164,32.82,Americano with Milk,Monday,11,May
+5/13/2024,31:10.8,cash,,29,Americano,Monday,15,May
+5/13/2024,31:50.9,cash,,29,Americano,Monday,15,May
+5/14/2024,38:14.6,card,ANON-0000-0000-0012,27.92,Americano,Tuesday,8,May
+5/14/2024,39:25.5,card,ANON-0000-0000-0012,27.92,Americano,Tuesday,8,May
+5/14/2024,40:17.5,card,ANON-0000-0000-0012,27.92,Americano,Tuesday,8,May
+5/14/2024,19:23.2,card,ANON-0000-0000-0012,37.72,Cappuccino,Tuesday,10,May
+5/14/2024,32:29.4,card,ANON-0000-0000-0165,37.72,Latte,Tuesday,11,May
+5/14/2024,34:12.9,card,ANON-0000-0000-0165,37.72,Cappuccino,Tuesday,11,May
+5/14/2024,04:54.6,card,ANON-0000-0000-0025,37.72,Cappuccino,Tuesday,14,May
+5/14/2024,06:00.4,card,ANON-0000-0000-0009,32.82,Americano with Milk,Tuesday,14,May
+5/14/2024,01:54.8,card,ANON-0000-0000-0040,27.92,Americano,Tuesday,15,May
+5/14/2024,57:57.2,card,ANON-0000-0000-0166,32.82,Americano with Milk,Tuesday,16,May
+5/14/2024,59:10.2,card,ANON-0000-0000-0166,37.72,Cappuccino,Tuesday,16,May
+5/14/2024,51:25.2,card,ANON-0000-0000-0167,37.72,Hot Chocolate,Tuesday,22,May
+5/15/2024,40:05.7,card,ANON-0000-0000-0168,37.72,Latte,Wednesday,8,May
+5/15/2024,14:19.4,card,ANON-0000-0000-0012,23.02,Espresso,Wednesday,11,May
+5/15/2024,19:10.0,card,ANON-0000-0000-0012,27.92,Americano,Wednesday,11,May
+5/15/2024,34:35.1,card,ANON-0000-0000-0003,27.92,Americano,Wednesday,13,May
+5/15/2024,35:29.2,card,ANON-0000-0000-0003,27.92,Americano,Wednesday,13,May
+5/15/2024,36:27.3,card,ANON-0000-0000-0003,27.92,Americano,Wednesday,13,May
+5/15/2024,55:29.0,card,ANON-0000-0000-0164,32.82,Americano with Milk,Wednesday,13,May
+5/15/2024,38:10.8,cash,,29,Americano,Wednesday,14,May
+5/15/2024,38:52.3,card,ANON-0000-0000-0169,27.92,Cortado,Wednesday,14,May
+5/15/2024,39:44.4,card,ANON-0000-0000-0012,27.92,Cortado,Wednesday,14,May
+5/15/2024,28:58.6,card,ANON-0000-0000-0170,23.02,Espresso,Wednesday,17,May
+5/15/2024,20:34.8,card,ANON-0000-0000-0171,37.72,Cappuccino,Wednesday,20,May
+5/16/2024,38:42.5,card,ANON-0000-0000-0097,32.82,Americano with Milk,Thursday,10,May
+5/16/2024,39:49.4,card,ANON-0000-0000-0172,32.82,Americano with Milk,Thursday,10,May
+5/16/2024,42:50.3,cash,,39,Latte,Thursday,11,May
+5/16/2024,44:20.8,cash,,39,Cappuccino,Thursday,11,May
+5/16/2024,14:00.1,card,ANON-0000-0000-0173,32.82,Americano with Milk,Thursday,12,May
+5/16/2024,15:16.3,card,ANON-0000-0000-0174,37.72,Hot Chocolate,Thursday,15,May
+5/16/2024,44:31.5,card,ANON-0000-0000-0069,37.72,Latte,Thursday,17,May
+5/16/2024,12:56.9,card,ANON-0000-0000-0175,37.72,Hot Chocolate,Thursday,18,May
+5/16/2024,13:58.2,card,ANON-0000-0000-0175,37.72,Latte,Thursday,18,May
+5/17/2024,00:48.5,card,ANON-0000-0000-0033,27.92,Americano,Friday,9,May
+5/17/2024,30:27.6,card,ANON-0000-0000-0164,32.82,Americano with Milk,Friday,11,May
+5/17/2024,58:03.1,cash,,34,Americano with Milk,Friday,14,May
+5/17/2024,55:18.5,card,ANON-0000-0000-0012,32.82,Americano with Milk,Friday,19,May
+5/17/2024,56:46.8,card,ANON-0000-0000-0009,37.72,Cappuccino,Friday,19,May
+5/17/2024,37:52.9,card,ANON-0000-0000-0176,37.72,Cappuccino,Friday,20,May
+5/17/2024,34:50.8,card,ANON-0000-0000-0177,27.92,Americano,Friday,22,May
+5/17/2024,36:33.4,card,ANON-0000-0000-0178,37.72,Latte,Friday,22,May
+5/17/2024,37:42.8,card,ANON-0000-0000-0179,37.72,Latte,Friday,22,May
+5/18/2024,01:37.9,card,ANON-0000-0000-0180,37.72,Cappuccino,Saturday,8,May
+5/18/2024,02:40.0,card,ANON-0000-0000-0180,37.72,Cappuccino,Saturday,8,May
+5/18/2024,15:56.1,card,ANON-0000-0000-0181,32.82,Americano with Milk,Saturday,11,May
+5/18/2024,48:29.4,card,ANON-0000-0000-0172,32.82,Americano with Milk,Saturday,16,May
+5/18/2024,49:27.1,card,ANON-0000-0000-0097,32.82,Americano with Milk,Saturday,16,May
+5/18/2024,58:44.2,card,ANON-0000-0000-0040,32.82,Americano with Milk,Saturday,19,May
+5/18/2024,22:53.1,card,ANON-0000-0000-0009,37.72,Latte,Saturday,20,May
+5/18/2024,05:27.5,cash,,39,Cappuccino,Saturday,22,May
+5/19/2024,58:38.3,card,ANON-0000-0000-0182,27.92,Americano,Sunday,7,May
+5/19/2024,59:33.5,card,ANON-0000-0000-0182,27.92,Americano,Sunday,7,May
+5/19/2024,00:35.1,card,ANON-0000-0000-0183,37.72,Cappuccino,Sunday,8,May
+5/19/2024,28:49.7,cash,,24,Espresso,Sunday,9,May
+5/19/2024,14:26.7,card,ANON-0000-0000-0184,32.82,Americano with Milk,Sunday,12,May
+5/19/2024,43:40.0,card,ANON-0000-0000-0012,27.92,Americano,Sunday,14,May
+5/19/2024,58:58.2,card,ANON-0000-0000-0185,32.82,Americano with Milk,Sunday,15,May
+5/19/2024,12:36.3,card,ANON-0000-0000-0186,32.82,Americano with Milk,Sunday,18,May
+5/19/2024,13:47.8,card,ANON-0000-0000-0186,23.02,Espresso,Sunday,18,May
+5/19/2024,16:30.0,card,ANON-0000-0000-0186,37.72,Hot Chocolate,Sunday,18,May
+5/19/2024,51:07.0,card,ANON-0000-0000-0187,37.72,Cappuccino,Sunday,19,May
+5/19/2024,15:41.8,card,ANON-0000-0000-0188,37.72,Cappuccino,Sunday,21,May
+5/19/2024,18:36.1,card,ANON-0000-0000-0189,37.72,Cappuccino,Sunday,21,May
+5/20/2024,05:59.2,card,ANON-0000-0000-0190,32.82,Americano with Milk,Monday,10,May
+5/20/2024,17:51.9,card,ANON-0000-0000-0191,37.72,Latte,Monday,10,May
+5/20/2024,58:48.4,card,ANON-0000-0000-0001,37.72,Latte,Monday,10,May
+5/20/2024,15:16.4,card,ANON-0000-0000-0143,27.92,Americano,Monday,11,May
+5/20/2024,16:19.6,card,ANON-0000-0000-0143,27.92,Americano,Monday,11,May
+5/20/2024,27:13.4,card,ANON-0000-0000-0003,27.92,Americano,Monday,13,May
+5/20/2024,28:10.4,card,ANON-0000-0000-0003,27.92,Americano,Monday,13,May
+5/20/2024,13:19.0,card,ANON-0000-0000-0192,32.82,Americano with Milk,Monday,14,May
+5/20/2024,14:31.4,card,ANON-0000-0000-0192,37.72,Cappuccino,Monday,14,May
+5/20/2024,32:21.3,cash,,29,Americano,Monday,14,May
+5/20/2024,12:51.1,card,ANON-0000-0000-0120,37.72,Latte,Monday,17,May
+5/20/2024,13:56.9,card,ANON-0000-0000-0193,37.72,Latte,Monday,17,May
+5/20/2024,36:48.3,card,ANON-0000-0000-0194,32.82,Americano with Milk,Monday,20,May
+5/20/2024,37:57.3,card,ANON-0000-0000-0194,37.72,Cocoa,Monday,20,May
+5/20/2024,46:52.1,card,ANON-0000-0000-0195,27.92,Cortado,Monday,20,May
+5/20/2024,36:54.0,card,ANON-0000-0000-0012,32.82,Americano with Milk,Monday,21,May
+5/20/2024,37:57.8,card,ANON-0000-0000-0012,32.82,Americano with Milk,Monday,21,May
+5/21/2024,27:38.2,card,ANON-0000-0000-0196,37.72,Latte,Tuesday,8,May
+5/21/2024,43:50.7,cash,,29,Americano,Tuesday,9,May
+5/21/2024,44:40.3,cash,,34,Americano with Milk,Tuesday,9,May
+5/21/2024,46:09.4,cash,,39,Cocoa,Tuesday,9,May
+5/21/2024,05:08.0,cash,,39,Latte,Tuesday,10,May
+5/21/2024,10:20.0,card,ANON-0000-0000-0197,37.72,Latte,Tuesday,16,May
+5/21/2024,13:24.0,card,ANON-0000-0000-0012,23.02,Espresso,Tuesday,18,May
+5/21/2024,11:09.2,card,ANON-0000-0000-0198,37.72,Cappuccino,Tuesday,19,May
+5/21/2024,13:48.4,card,ANON-0000-0000-0199,37.72,Cappuccino,Tuesday,20,May
+5/22/2024,34:41.8,card,ANON-0000-0000-0200,37.72,Cappuccino,Wednesday,9,May
+5/22/2024,49:47.0,card,ANON-0000-0000-0191,32.82,Americano with Milk,Wednesday,10,May
+5/22/2024,18:14.3,card,ANON-0000-0000-0141,27.92,Cortado,Wednesday,11,May
+5/22/2024,34:55.0,card,ANON-0000-0000-0097,32.82,Americano with Milk,Wednesday,11,May
+5/22/2024,29:50.8,card,ANON-0000-0000-0012,27.92,Americano,Wednesday,12,May
+5/22/2024,30:43.3,card,ANON-0000-0000-0012,27.92,Americano,Wednesday,12,May
+5/22/2024,00:20.5,card,ANON-0000-0000-0009,32.82,Americano with Milk,Wednesday,14,May
+5/22/2024,24:58.1,card,ANON-0000-0000-0134,37.72,Cappuccino,Wednesday,19,May
+5/22/2024,25:58.6,card,ANON-0000-0000-0134,37.72,Cappuccino,Wednesday,19,May
+5/22/2024,23:53.0,card,ANON-0000-0000-0180,37.72,Hot Chocolate,Wednesday,21,May
+5/22/2024,24:49.6,card,ANON-0000-0000-0180,37.72,Cappuccino,Wednesday,21,May
+5/23/2024,10:19.6,card,ANON-0000-0000-0201,37.72,Cappuccino,Thursday,10,May
+5/23/2024,22:06.6,card,ANON-0000-0000-0202,23.02,Espresso,Thursday,12,May
+5/23/2024,55:16.6,card,ANON-0000-0000-0180,37.72,Cappuccino,Thursday,15,May
+5/23/2024,56:27.2,card,ANON-0000-0000-0203,37.72,Cappuccino,Thursday,15,May
+5/23/2024,18:14.1,card,ANON-0000-0000-0180,37.72,Cappuccino,Thursday,16,May
+5/23/2024,41:00.0,card,ANON-0000-0000-0077,37.72,Latte,Thursday,16,May
+5/23/2024,14:33.2,card,ANON-0000-0000-0153,37.72,Cappuccino,Thursday,17,May
+5/23/2024,15:44.9,card,ANON-0000-0000-0153,37.72,Latte,Thursday,17,May
+5/23/2024,03:53.9,card,ANON-0000-0000-0204,27.92,Cortado,Thursday,19,May
+5/23/2024,17:28.4,card,ANON-0000-0000-0134,37.72,Cappuccino,Thursday,19,May
+5/23/2024,18:26.4,card,ANON-0000-0000-0205,37.72,Cappuccino,Thursday,19,May
+5/23/2024,42:31.5,card,ANON-0000-0000-0206,37.72,Cappuccino,Thursday,19,May
+5/23/2024,15:01.4,card,ANON-0000-0000-0207,37.72,Cappuccino,Thursday,20,May
+5/23/2024,16:24.2,card,ANON-0000-0000-0207,37.72,Latte,Thursday,20,May
+5/23/2024,48:10.8,card,ANON-0000-0000-0208,32.82,Americano with Milk,Thursday,22,May
+5/23/2024,55:36.9,cash,,39,Hot Chocolate,Thursday,22,May
+5/24/2024,11:59.2,card,ANON-0000-0000-0141,27.92,Cortado,Friday,11,May
+5/24/2024,15:08.3,card,ANON-0000-0000-0012,27.92,Americano,Friday,11,May
+5/24/2024,16:13.0,card,ANON-0000-0000-0012,27.92,Americano,Friday,11,May
+5/24/2024,07:19.8,card,ANON-0000-0000-0081,37.72,Hot Chocolate,Friday,16,May
+5/24/2024,17:40.3,card,ANON-0000-0000-0209,27.92,Cortado,Friday,18,May
+5/24/2024,18:36.7,card,ANON-0000-0000-0209,27.92,Cortado,Friday,18,May
+5/24/2024,30:40.2,card,ANON-0000-0000-0210,32.82,Americano with Milk,Friday,22,May
+5/25/2024,40:58.8,cash,,29,Americano,Saturday,7,May
+5/25/2024,13:53.4,card,ANON-0000-0000-0211,37.72,Latte,Saturday,12,May
+5/25/2024,40:23.6,cash,,29,Americano,Saturday,12,May
+5/25/2024,42:10.3,card,ANON-0000-0000-0212,32.82,Americano with Milk,Saturday,12,May
+5/25/2024,43:13.3,card,ANON-0000-0000-0212,32.82,Americano with Milk,Saturday,12,May
+5/25/2024,58:12.0,card,ANON-0000-0000-0213,32.82,Americano with Milk,Saturday,12,May
+5/25/2024,47:09.6,card,ANON-0000-0000-0040,32.82,Americano with Milk,Saturday,16,May
+5/25/2024,48:16.8,card,ANON-0000-0000-0040,27.92,Americano,Saturday,16,May
+5/26/2024,20:02.2,card,ANON-0000-0000-0001,37.72,Latte,Sunday,10,May
+5/26/2024,24:49.8,card,ANON-0000-0000-0214,32.82,Americano with Milk,Sunday,14,May
+5/26/2024,26:05.2,card,ANON-0000-0000-0215,27.92,Cortado,Sunday,14,May
+5/26/2024,40:58.9,card,ANON-0000-0000-0216,32.82,Americano with Milk,Sunday,14,May
+5/26/2024,19:15.5,card,ANON-0000-0000-0217,37.72,Cappuccino,Sunday,17,May
+5/26/2024,09:52.8,card,ANON-0000-0000-0218,37.72,Hot Chocolate,Sunday,18,May
+5/26/2024,11:02.2,card,ANON-0000-0000-0218,37.72,Hot Chocolate,Sunday,18,May
+5/26/2024,13:14.3,card,ANON-0000-0000-0218,27.92,Americano,Sunday,18,May
+5/26/2024,39:18.8,card,ANON-0000-0000-0219,37.72,Latte,Sunday,18,May
+5/26/2024,59:15.0,card,ANON-0000-0000-0220,37.72,Hot Chocolate,Sunday,20,May
+5/26/2024,00:05.6,card,ANON-0000-0000-0220,37.72,Cappuccino,Sunday,21,May
+5/26/2024,02:36.9,card,ANON-0000-0000-0221,27.92,Cortado,Sunday,21,May
+5/26/2024,03:51.8,card,ANON-0000-0000-0222,37.72,Cappuccino,Sunday,21,May
+5/26/2024,04:58.8,card,ANON-0000-0000-0221,37.72,Latte,Sunday,21,May
+5/26/2024,06:02.6,card,ANON-0000-0000-0223,37.72,Cappuccino,Sunday,21,May
+5/27/2024,34:55.3,card,ANON-0000-0000-0012,27.92,Americano,Monday,11,May
+5/27/2024,05:21.7,card,ANON-0000-0000-0224,32.82,Americano with Milk,Monday,14,May
+5/27/2024,06:43.6,card,ANON-0000-0000-0224,37.72,Cocoa,Monday,14,May
+5/27/2024,11:34.1,card,ANON-0000-0000-0225,27.92,Americano,Monday,15,May
+5/27/2024,14:05.8,card,ANON-0000-0000-0225,27.92,Americano,Monday,15,May
+5/27/2024,50:55.8,card,ANON-0000-0000-0203,37.72,Latte,Monday,17,May
+5/27/2024,00:51.0,card,ANON-0000-0000-0226,27.92,Americano,Monday,18,May
+5/27/2024,16:27.4,card,ANON-0000-0000-0227,37.72,Latte,Monday,19,May
+5/27/2024,17:38.7,card,ANON-0000-0000-0228,37.72,Latte,Monday,19,May
+5/27/2024,29:07.1,card,ANON-0000-0000-0192,32.82,Americano with Milk,Monday,21,May
+5/27/2024,30:19.8,card,ANON-0000-0000-0206,37.72,Cappuccino,Monday,21,May
+5/28/2024,37:09.0,card,ANON-0000-0000-0012,32.82,Americano with Milk,Tuesday,8,May
+5/28/2024,20:10.7,card,ANON-0000-0000-0097,32.82,Americano with Milk,Tuesday,9,May
+5/28/2024,48:18.5,card,ANON-0000-0000-0229,37.72,Cappuccino,Tuesday,11,May
+5/28/2024,14:40.4,card,ANON-0000-0000-0230,37.72,Cappuccino,Tuesday,13,May
+5/28/2024,10:53.7,card,ANON-0000-0000-0194,37.72,Cocoa,Tuesday,14,May
+5/28/2024,25:39.3,card,ANON-0000-0000-0141,27.92,Cortado,Tuesday,16,May
+5/28/2024,21:44.0,cash,,39,Cappuccino,Tuesday,17,May
+5/28/2024,09:29.1,card,ANON-0000-0000-0231,27.92,Americano,Tuesday,19,May
+5/28/2024,10:31.1,card,ANON-0000-0000-0231,37.72,Latte,Tuesday,19,May
+5/28/2024,24:32.2,card,ANON-0000-0000-0009,32.82,Americano with Milk,Tuesday,20,May
+5/28/2024,50:19.4,card,ANON-0000-0000-0012,27.92,Americano,Tuesday,20,May
+5/29/2024,14:43.7,card,ANON-0000-0000-0232,37.72,Latte,Wednesday,9,May
+5/29/2024,48:46.8,cash,,39,Latte,Wednesday,10,May
+5/29/2024,14:02.9,card,ANON-0000-0000-0233,37.72,Hot Chocolate,Wednesday,11,May
+5/29/2024,10:48.5,card,ANON-0000-0000-0234,27.92,Americano,Wednesday,15,May
+5/29/2024,22:56.3,card,ANON-0000-0000-0235,37.72,Latte,Wednesday,15,May
+5/29/2024,45:12.7,card,ANON-0000-0000-0236,37.72,Cappuccino,Wednesday,15,May
+5/29/2024,45:03.9,card,ANON-0000-0000-0237,37.72,Latte,Wednesday,16,May
+5/29/2024,24:03.3,card,ANON-0000-0000-0238,27.92,Cortado,Wednesday,18,May
+5/29/2024,24:59.3,card,ANON-0000-0000-0238,37.72,Latte,Wednesday,18,May
+5/29/2024,30:42.2,card,ANON-0000-0000-0239,37.72,Hot Chocolate,Wednesday,20,May
+5/29/2024,32:35.2,card,ANON-0000-0000-0240,37.72,Cocoa,Wednesday,20,May
+5/30/2024,29:06.3,card,ANON-0000-0000-0241,37.72,Cappuccino,Thursday,8,May
+5/30/2024,30:21.6,card,ANON-0000-0000-0241,37.72,Latte,Thursday,8,May
+5/30/2024,37:05.4,card,ANON-0000-0000-0242,32.82,Americano with Milk,Thursday,8,May
+5/30/2024,47:59.1,card,ANON-0000-0000-0001,37.72,Latte,Thursday,9,May
+5/30/2024,56:15.5,card,ANON-0000-0000-0097,32.82,Americano with Milk,Thursday,14,May
+5/30/2024,16:15.7,card,ANON-0000-0000-0243,23.02,Espresso,Thursday,15,May
+5/30/2024,17:38.7,card,ANON-0000-0000-0012,23.02,Espresso,Thursday,15,May
+5/30/2024,53:11.2,card,ANON-0000-0000-0206,37.72,Cappuccino,Thursday,19,May
+5/30/2024,31:05.4,card,ANON-0000-0000-0244,37.72,Latte,Thursday,20,May
+5/30/2024,46:13.8,card,ANON-0000-0000-0009,37.72,Hot Chocolate,Thursday,20,May
+5/30/2024,47:21.6,card,ANON-0000-0000-0009,32.82,Americano with Milk,Thursday,20,May
+5/31/2024,53:57.3,card,ANON-0000-0000-0245,32.82,Americano with Milk,Friday,7,May
+5/31/2024,21:07.8,card,ANON-0000-0000-0246,37.72,Latte,Friday,9,May
+5/31/2024,23:58.8,cash,,39,Latte,Friday,9,May
+5/31/2024,38:07.9,card,ANON-0000-0000-0247,37.72,Hot Chocolate,Friday,10,May
+5/31/2024,39:06.1,card,ANON-0000-0000-0248,37.72,Cocoa,Friday,10,May
+5/31/2024,50:13.0,card,ANON-0000-0000-0249,32.82,Americano with Milk,Friday,14,May
+5/31/2024,23:44.6,card,ANON-0000-0000-0250,37.72,Latte,Friday,18,May
+5/31/2024,25:03.3,card,ANON-0000-0000-0250,37.72,Latte,Friday,18,May
+5/31/2024,06:39.2,card,ANON-0000-0000-0180,37.72,Cappuccino,Friday,20,May
+5/31/2024,33:06.4,card,ANON-0000-0000-0134,32.82,Americano with Milk,Friday,20,May
+5/31/2024,34:32.9,card,ANON-0000-0000-0134,37.72,Latte,Friday,20,May
+5/31/2024,05:47.1,card,ANON-0000-0000-0206,37.72,Cappuccino,Friday,22,May
+5/31/2024,06:52.5,card,ANON-0000-0000-0206,32.82,Americano with Milk,Friday,22,May
+5/31/2024,07:55.4,card,ANON-0000-0000-0206,27.92,Cortado,Friday,22,May
+6/1/2024,27:01.7,card,ANON-0000-0000-0141,27.92,Cortado,Saturday,8,June
+6/1/2024,48:24.7,card,ANON-0000-0000-0232,37.72,Latte,Saturday,9,June
+6/1/2024,38:09.4,card,ANON-0000-0000-0250,37.72,Latte,Saturday,11,June
+6/1/2024,28:53.7,card,ANON-0000-0000-0097,32.82,Americano with Milk,Saturday,14,June
+6/1/2024,20:12.8,card,ANON-0000-0000-0251,32.82,Americano with Milk,Saturday,18,June
+6/1/2024,21:15.4,card,ANON-0000-0000-0251,32.82,Americano with Milk,Saturday,18,June
+6/1/2024,50:10.5,card,ANON-0000-0000-0154,37.72,Cappuccino,Saturday,20,June
+6/1/2024,51:13.6,card,ANON-0000-0000-0154,37.72,Cappuccino,Saturday,20,June
+6/1/2024,54:59.3,cash,,39,Cocoa,Saturday,20,June
+6/1/2024,59:09.7,card,ANON-0000-0000-0252,37.72,Cocoa,Saturday,20,June
+6/1/2024,51:05.0,card,ANON-0000-0000-0009,32.82,Americano with Milk,Saturday,21,June
+6/2/2024,03:25.8,card,ANON-0000-0000-0009,37.72,Latte,Sunday,20,June
+6/2/2024,24:02.4,card,ANON-0000-0000-0040,32.82,Americano with Milk,Sunday,20,June
+6/2/2024,25:07.2,card,ANON-0000-0000-0040,37.72,Cappuccino,Sunday,20,June
+6/2/2024,07:20.5,card,ANON-0000-0000-0097,32.82,Americano with Milk,Sunday,21,June
+6/2/2024,30:12.4,card,ANON-0000-0000-0253,37.72,Latte,Sunday,21,June
+6/2/2024,43:10.6,cash,,34,Americano with Milk,Sunday,22,June
+6/3/2024,12:04.1,card,ANON-0000-0000-0001,37.72,Latte,Monday,10,June
+6/3/2024,27:49.8,card,ANON-0000-0000-0191,37.72,Latte,Monday,10,June
+6/3/2024,31:42.3,card,ANON-0000-0000-0025,37.72,Cappuccino,Monday,14,June
+6/3/2024,33:01.0,card,ANON-0000-0000-0024,32.82,Americano with Milk,Monday,14,June
+6/3/2024,34:06.9,card,ANON-0000-0000-0009,37.72,Latte,Monday,14,June
+6/3/2024,42:51.7,cash,,34,Americano with Milk,Monday,21,June
+6/3/2024,43:37.5,cash,,34,Americano with Milk,Monday,21,June
+6/4/2024,23:42.9,card,ANON-0000-0000-0141,27.92,Cortado,Tuesday,9,June
+6/4/2024,27:14.0,card,ANON-0000-0000-0097,32.82,Americano with Milk,Tuesday,10,June
+6/4/2024,02:10.2,card,ANON-0000-0000-0254,37.72,Latte,Tuesday,12,June
+6/4/2024,05:29.2,card,ANON-0000-0000-0254,37.72,Hot Chocolate,Tuesday,12,June
+6/4/2024,30:32.5,card,ANON-0000-0000-0255,37.72,Latte,Tuesday,15,June
+6/4/2024,46:36.7,card,ANON-0000-0000-0192,27.92,Cortado,Tuesday,17,June
+6/4/2024,47:28.8,card,ANON-0000-0000-0192,37.72,Cappuccino,Tuesday,17,June
+6/4/2024,13:01.2,card,ANON-0000-0000-0256,37.72,Hot Chocolate,Tuesday,20,June
+6/4/2024,50:33.9,card,ANON-0000-0000-0257,37.72,Cappuccino,Tuesday,20,June
+6/4/2024,31:58.9,card,ANON-0000-0000-0258,27.92,Cortado,Tuesday,21,June
+6/4/2024,33:02.6,card,ANON-0000-0000-0259,32.82,Americano with Milk,Tuesday,21,June
+6/4/2024,34:55.7,card,ANON-0000-0000-0260,32.82,Americano with Milk,Tuesday,21,June
+6/4/2024,36:06.9,card,ANON-0000-0000-0260,32.82,Americano with Milk,Tuesday,21,June
+6/4/2024,37:15.2,card,ANON-0000-0000-0260,32.82,Americano with Milk,Tuesday,21,June
+6/5/2024,21:49.0,card,ANON-0000-0000-0261,37.72,Cappuccino,Wednesday,8,June
+6/5/2024,23:06.7,card,ANON-0000-0000-0261,37.72,Cappuccino,Wednesday,8,June
+6/5/2024,22:43.1,card,ANON-0000-0000-0262,27.92,Americano,Wednesday,9,June
+6/5/2024,28:50.6,card,ANON-0000-0000-0001,37.72,Latte,Wednesday,10,June
+6/5/2024,40:53.2,card,ANON-0000-0000-0097,32.82,Americano with Milk,Wednesday,10,June
+6/5/2024,43:57.7,card,ANON-0000-0000-0263,32.82,Americano with Milk,Wednesday,19,June
+6/5/2024,59:53.5,card,ANON-0000-0000-0264,37.72,Latte,Wednesday,19,June
+6/5/2024,10:47.6,card,ANON-0000-0000-0220,37.72,Cocoa,Wednesday,20,June
+6/5/2024,12:01.7,card,ANON-0000-0000-0220,27.92,Cortado,Wednesday,20,June
+6/6/2024,52:56.4,card,ANON-0000-0000-0097,32.82,Americano with Milk,Thursday,8,June
+6/6/2024,54:08.5,card,ANON-0000-0000-0097,32.82,Americano with Milk,Thursday,8,June
+6/6/2024,36:09.7,card,ANON-0000-0000-0001,37.72,Latte,Thursday,10,June
+6/6/2024,17:41.5,card,ANON-0000-0000-0265,27.92,Americano,Thursday,12,June
+6/6/2024,11:14.2,card,ANON-0000-0000-0224,32.82,Americano with Milk,Thursday,15,June
+6/6/2024,24:06.2,card,ANON-0000-0000-0266,37.72,Cappuccino,Thursday,15,June
+6/6/2024,14:05.1,card,ANON-0000-0000-0267,37.72,Latte,Thursday,21,June
+6/6/2024,15:42.2,card,ANON-0000-0000-0267,37.72,Latte,Thursday,21,June
+6/6/2024,18:26.7,card,ANON-0000-0000-0206,37.72,Cappuccino,Thursday,21,June
+6/6/2024,19:30.4,card,ANON-0000-0000-0206,32.82,Americano with Milk,Thursday,21,June
+6/6/2024,21:04.4,card,ANON-0000-0000-0267,37.72,Latte,Thursday,21,June
+6/7/2024,18:04.3,card,ANON-0000-0000-0268,37.72,Cappuccino,Friday,8,June
+6/7/2024,35:28.1,card,ANON-0000-0000-0269,23.02,Espresso,Friday,10,June
+6/7/2024,34:18.3,card,ANON-0000-0000-0164,32.82,Americano with Milk,Friday,13,June
+6/7/2024,45:42.2,card,ANON-0000-0000-0270,27.92,Cortado,Friday,16,June
+6/7/2024,47:15.5,card,ANON-0000-0000-0270,27.92,Cortado,Friday,16,June
+6/8/2024,04:20.0,card,ANON-0000-0000-0271,27.92,Cortado,Saturday,9,June
+6/8/2024,26:11.2,card,ANON-0000-0000-0097,32.82,Americano with Milk,Saturday,9,June
+6/8/2024,24:54.3,card,ANON-0000-0000-0134,37.72,Cappuccino,Saturday,20,June
+6/8/2024,25:56.3,card,ANON-0000-0000-0134,37.72,Cappuccino,Saturday,20,June
+6/9/2024,15:52.8,card,ANON-0000-0000-0097,37.72,Latte,Sunday,8,June
+6/9/2024,30:04.5,card,ANON-0000-0000-0272,37.72,Latte,Sunday,10,June
+6/9/2024,52:05.8,card,ANON-0000-0000-0273,37.72,Cappuccino,Sunday,10,June
+6/9/2024,04:41.3,card,ANON-0000-0000-0141,27.92,Cortado,Sunday,11,June
+6/9/2024,07:08.1,card,ANON-0000-0000-0274,23.02,Espresso,Sunday,11,June
+6/9/2024,52:49.6,card,ANON-0000-0000-0275,37.72,Cappuccino,Sunday,11,June
+6/9/2024,11:23.6,card,ANON-0000-0000-0276,32.82,Americano with Milk,Sunday,12,June
+6/9/2024,13:08.1,card,ANON-0000-0000-0276,37.72,Latte,Sunday,12,June
+6/9/2024,14:10.8,card,ANON-0000-0000-0276,37.72,Latte,Sunday,12,June
+6/9/2024,10:30.7,card,ANON-0000-0000-0277,27.92,Cortado,Sunday,15,June
+6/9/2024,17:28.2,card,ANON-0000-0000-0278,37.72,Cappuccino,Sunday,16,June
+6/9/2024,21:19.3,card,ANON-0000-0000-0279,32.82,Americano with Milk,Sunday,19,June
+6/9/2024,05:08.8,card,ANON-0000-0000-0280,27.92,Americano,Sunday,21,June
+6/10/2024,47:49.9,card,ANON-0000-0000-0281,37.72,Cappuccino,Monday,12,June
+6/10/2024,56:48.3,card,ANON-0000-0000-0097,37.72,Latte,Monday,12,June
+6/10/2024,04:28.1,card,ANON-0000-0000-0282,37.72,Hot Chocolate,Monday,19,June
+6/10/2024,05:22.8,card,ANON-0000-0000-0282,37.72,Hot Chocolate,Monday,19,June
+6/10/2024,37:23.6,card,ANON-0000-0000-0283,37.72,Latte,Monday,19,June
+6/10/2024,38:19.7,card,ANON-0000-0000-0283,37.72,Latte,Monday,19,June
+6/11/2024,38:04.0,card,ANON-0000-0000-0284,32.82,Americano with Milk,Tuesday,10,June
+6/11/2024,48:25.3,card,ANON-0000-0000-0285,37.72,Latte,Tuesday,18,June
+6/11/2024,49:36.4,card,ANON-0000-0000-0285,37.72,Latte,Tuesday,18,June
+6/11/2024,17:03.3,card,ANON-0000-0000-0286,37.72,Hot Chocolate,Tuesday,21,June
+6/11/2024,27:41.9,card,ANON-0000-0000-0287,32.82,Americano with Milk,Tuesday,21,June
+6/11/2024,28:50.2,card,ANON-0000-0000-0287,32.82,Americano with Milk,Tuesday,21,June
+6/12/2024,18:18.8,card,ANON-0000-0000-0288,37.72,Hot Chocolate,Wednesday,10,June
+6/12/2024,51:43.9,card,ANON-0000-0000-0289,37.72,Cappuccino,Wednesday,11,June
+6/12/2024,41:17.2,card,ANON-0000-0000-0283,37.72,Latte,Wednesday,17,June
+6/12/2024,47:27.9,card,ANON-0000-0000-0290,37.72,Latte,Wednesday,17,June
+6/12/2024,16:33.6,card,ANON-0000-0000-0256,37.72,Hot Chocolate,Wednesday,20,June
+6/12/2024,25:34.2,card,ANON-0000-0000-0291,32.82,Americano with Milk,Wednesday,20,June
+6/13/2024,54:24.2,card,ANON-0000-0000-0292,27.92,Americano,Thursday,8,June
+6/13/2024,57:25.6,card,ANON-0000-0000-0097,37.72,Latte,Thursday,8,June
+6/13/2024,50:25.0,card,ANON-0000-0000-0293,32.82,Americano with Milk,Thursday,9,June
+6/13/2024,57:11.5,card,ANON-0000-0000-0141,27.92,Cortado,Thursday,9,June
+6/13/2024,04:58.6,card,ANON-0000-0000-0294,32.82,Americano with Milk,Thursday,17,June
+6/13/2024,27:46.6,card,ANON-0000-0000-0295,37.72,Hot Chocolate,Thursday,17,June
+6/13/2024,22:19.1,card,ANON-0000-0000-0296,37.72,Latte,Thursday,19,June
+6/13/2024,20:51.8,card,ANON-0000-0000-0012,32.82,Americano with Milk,Thursday,20,June
+6/13/2024,43:46.0,card,ANON-0000-0000-0012,23.02,Espresso,Thursday,20,June
+6/13/2024,45:00.6,card,ANON-0000-0000-0295,23.02,Espresso,Thursday,20,June
+6/13/2024,48:17.9,card,ANON-0000-0000-0009,32.82,Americano with Milk,Thursday,20,June
+6/13/2024,02:28.4,card,ANON-0000-0000-0009,32.82,Americano with Milk,Thursday,21,June
+6/14/2024,46:13.2,card,ANON-0000-0000-0141,27.92,Cortado,Friday,7,June
+6/14/2024,30:31.6,card,ANON-0000-0000-0297,27.92,Americano,Friday,10,June
+6/14/2024,14:41.7,card,ANON-0000-0000-0097,37.72,Latte,Friday,12,June
+6/14/2024,29:53.4,card,ANON-0000-0000-0298,32.82,Americano with Milk,Friday,18,June
+6/15/2024,26:02.0,card,ANON-0000-0000-0299,37.72,Cappuccino,Saturday,11,June
+6/15/2024,21:28.1,card,ANON-0000-0000-0300,37.72,Latte,Saturday,12,June
+6/15/2024,22:46.9,card,ANON-0000-0000-0300,32.82,Americano with Milk,Saturday,12,June
+6/15/2024,23:52.2,card,ANON-0000-0000-0300,23.02,Espresso,Saturday,12,June
+6/15/2024,24:35.1,card,ANON-0000-0000-0300,37.72,Cocoa,Saturday,12,June
+6/15/2024,25:24.0,card,ANON-0000-0000-0300,32.82,Americano with Milk,Saturday,12,June
+6/15/2024,03:29.9,card,ANON-0000-0000-0301,32.82,Americano with Milk,Saturday,16,June
+6/15/2024,14:04.6,card,ANON-0000-0000-0302,27.92,Americano,Saturday,18,June
+6/16/2024,43:51.5,card,ANON-0000-0000-0059,32.82,Americano with Milk,Sunday,10,June
+6/16/2024,58:41.4,card,ANON-0000-0000-0303,37.72,Latte,Sunday,10,June
+6/16/2024,00:38.2,card,ANON-0000-0000-0303,37.72,Hot Chocolate,Sunday,11,June
+6/16/2024,01:41.5,card,ANON-0000-0000-0303,37.72,Hot Chocolate,Sunday,11,June
+6/16/2024,49:27.6,card,ANON-0000-0000-0276,32.82,Americano with Milk,Sunday,12,June
+6/16/2024,00:39.0,card,ANON-0000-0000-0274,23.02,Espresso,Sunday,14,June
+6/16/2024,02:36.3,card,ANON-0000-0000-0304,32.82,Americano with Milk,Sunday,15,June
+6/16/2024,05:10.4,card,ANON-0000-0000-0304,32.82,Americano with Milk,Sunday,15,June
+6/16/2024,43:59.6,card,ANON-0000-0000-0305,37.72,Hot Chocolate,Sunday,15,June
+6/16/2024,47:36.5,card,ANON-0000-0000-0306,37.72,Hot Chocolate,Sunday,16,June
+6/16/2024,45:17.3,card,ANON-0000-0000-0059,32.82,Americano with Milk,Sunday,17,June
+6/16/2024,46:16.6,card,ANON-0000-0000-0059,32.82,Americano with Milk,Sunday,17,June
+6/17/2024,57:24.0,card,ANON-0000-0000-0307,27.92,Americano,Monday,8,June
+6/17/2024,12:05.1,card,ANON-0000-0000-0308,27.92,Cortado,Monday,10,June
+6/17/2024,13:37.6,card,ANON-0000-0000-0308,27.92,Cortado,Monday,10,June
+6/17/2024,55:51.6,card,ANON-0000-0000-0042,37.72,Cappuccino,Monday,10,June
+6/17/2024,51:35.4,card,ANON-0000-0000-0164,37.72,Cappuccino,Monday,14,June
+6/17/2024,50:13.4,card,ANON-0000-0000-0012,37.72,Cappuccino,Monday,16,June
+6/17/2024,51:11.0,card,ANON-0000-0000-0012,37.72,Cappuccino,Monday,16,June
+6/17/2024,52:36.3,card,ANON-0000-0000-0012,27.92,Americano,Monday,16,June
+6/17/2024,51:19.6,card,ANON-0000-0000-0309,27.92,Americano,Monday,18,June
+6/17/2024,16:11.5,card,ANON-0000-0000-0009,32.82,Americano with Milk,Monday,21,June
+6/18/2024,04:06.1,card,ANON-0000-0000-0299,27.92,Americano,Tuesday,14,June
+6/18/2024,05:12.3,card,ANON-0000-0000-0299,37.72,Cappuccino,Tuesday,14,June
+6/18/2024,20:40.6,card,ANON-0000-0000-0154,37.72,Cappuccino,Tuesday,19,June
+6/18/2024,21:38.9,card,ANON-0000-0000-0154,37.72,Cappuccino,Tuesday,19,June
+6/18/2024,35:49.5,card,ANON-0000-0000-0310,27.92,Cortado,Tuesday,20,June
+6/18/2024,20:49.5,card,ANON-0000-0000-0012,32.82,Americano with Milk,Tuesday,21,June
+6/18/2024,22:18.5,card,ANON-0000-0000-0012,32.82,Americano with Milk,Tuesday,21,June
+6/19/2024,47:19.8,card,ANON-0000-0000-0311,37.72,Latte,Wednesday,7,June
+6/19/2024,17:54.5,card,ANON-0000-0000-0141,27.92,Cortado,Wednesday,8,June
+6/19/2024,54:00.5,card,ANON-0000-0000-0312,27.92,Americano,Wednesday,10,June
+6/19/2024,11:27.8,card,ANON-0000-0000-0313,37.72,Latte,Wednesday,11,June
+6/19/2024,12:31.4,card,ANON-0000-0000-0313,37.72,Cocoa,Wednesday,11,June
+6/19/2024,21:36.3,card,ANON-0000-0000-0164,32.82,Americano with Milk,Wednesday,14,June
+6/19/2024,28:43.4,card,ANON-0000-0000-0153,37.72,Cappuccino,Wednesday,18,June
+6/19/2024,29:59.0,card,ANON-0000-0000-0153,37.72,Latte,Wednesday,18,June
+6/19/2024,31:31.3,card,ANON-0000-0000-0009,32.82,Americano with Milk,Wednesday,19,June
+6/19/2024,28:59.5,card,ANON-0000-0000-0192,37.72,Cappuccino,Wednesday,21,June
+6/19/2024,30:03.5,card,ANON-0000-0000-0192,32.82,Americano with Milk,Wednesday,21,June
+6/20/2024,50:06.5,card,ANON-0000-0000-0097,37.72,Latte,Thursday,10,June
+6/20/2024,59:02.1,card,ANON-0000-0000-0314,37.72,Latte,Thursday,18,June
+6/20/2024,00:00.2,card,ANON-0000-0000-0314,37.72,Latte,Thursday,19,June
+6/20/2024,39:10.0,card,ANON-0000-0000-0257,37.72,Latte,Thursday,21,June
+6/20/2024,57:40.6,card,ANON-0000-0000-0009,37.72,Latte,Thursday,21,June
+6/20/2024,59:17.6,card,ANON-0000-0000-0009,32.82,Americano with Milk,Thursday,21,June
+6/21/2024,59:55.9,card,ANON-0000-0000-0311,37.72,Latte,Friday,9,June
+6/21/2024,01:40.2,card,ANON-0000-0000-0315,27.92,Americano,Friday,10,June
+6/21/2024,19:19.4,card,ANON-0000-0000-0012,32.82,Americano with Milk,Friday,13,June
+6/21/2024,20:31.5,card,ANON-0000-0000-0012,32.82,Americano with Milk,Friday,13,June
+6/21/2024,12:16.1,card,ANON-0000-0000-0316,23.02,Espresso,Friday,18,June
+6/21/2024,30:26.7,card,ANON-0000-0000-0009,37.72,Latte,Friday,19,June
+6/21/2024,47:06.2,card,ANON-0000-0000-0154,37.72,Cappuccino,Friday,19,June
+6/21/2024,48:06.7,card,ANON-0000-0000-0154,37.72,Cappuccino,Friday,19,June
+6/21/2024,49:54.5,card,ANON-0000-0000-0180,37.72,Cappuccino,Friday,19,June
+6/21/2024,51:00.2,card,ANON-0000-0000-0180,37.72,Cappuccino,Friday,19,June
+6/21/2024,52:18.8,card,ANON-0000-0000-0180,27.92,Americano,Friday,19,June
+6/21/2024,55:37.1,card,ANON-0000-0000-0311,32.82,Americano with Milk,Friday,19,June
+6/22/2024,39:50.3,card,ANON-0000-0000-0141,27.92,Cortado,Saturday,8,June
+6/22/2024,37:48.8,card,ANON-0000-0000-0311,32.82,Americano with Milk,Saturday,9,June
+6/22/2024,53:15.5,card,ANON-0000-0000-0317,32.82,Americano with Milk,Saturday,12,June
+6/22/2024,37:20.1,card,ANON-0000-0000-0009,37.72,Latte,Saturday,15,June
+6/22/2024,10:23.0,card,ANON-0000-0000-0318,37.72,Cappuccino,Saturday,22,June
+6/23/2024,12:01.4,card,ANON-0000-0000-0012,32.82,Americano with Milk,Sunday,18,June
+6/23/2024,13:50.6,card,ANON-0000-0000-0012,32.82,Americano with Milk,Sunday,18,June
+6/23/2024,06:47.0,card,ANON-0000-0000-0319,37.72,Cappuccino,Sunday,21,June
+6/23/2024,29:07.8,card,ANON-0000-0000-0320,37.72,Latte,Sunday,21,June
+6/23/2024,30:36.4,card,ANON-0000-0000-0320,37.72,Cappuccino,Sunday,21,June
+6/24/2024,44:39.9,card,ANON-0000-0000-0164,32.82,Americano with Milk,Monday,11,June
+6/24/2024,49:36.0,card,ANON-0000-0000-0180,37.72,Cappuccino,Monday,11,June
+6/24/2024,50:44.1,card,ANON-0000-0000-0180,37.72,Cappuccino,Monday,11,June
+6/24/2024,02:29.0,card,ANON-0000-0000-0321,37.72,Latte,Monday,15,June
+6/24/2024,46:00.6,card,ANON-0000-0000-0203,37.72,Cappuccino,Monday,16,June
+6/24/2024,47:00.4,card,ANON-0000-0000-0203,37.72,Cappuccino,Monday,16,June
+6/25/2024,19:24.2,card,ANON-0000-0000-0322,37.72,Latte,Tuesday,8,June
+6/25/2024,28:26.4,card,ANON-0000-0000-0012,32.82,Americano with Milk,Tuesday,10,June
+6/25/2024,29:42.4,card,ANON-0000-0000-0040,32.82,Americano with Milk,Tuesday,10,June
+6/25/2024,34:52.3,card,ANON-0000-0000-0203,37.72,Cappuccino,Tuesday,11,June
+6/26/2024,33:01.7,card,ANON-0000-0000-0323,37.72,Latte,Wednesday,9,June
+6/26/2024,32:29.5,card,ANON-0000-0000-0324,23.02,Espresso,Wednesday,16,June
+6/26/2024,34:01.6,card,ANON-0000-0000-0325,27.92,Americano,Wednesday,16,June
+6/26/2024,21:53.3,card,ANON-0000-0000-0009,37.72,Latte,Wednesday,21,June
+6/26/2024,27:00.8,card,ANON-0000-0000-0009,37.72,Cappuccino,Wednesday,21,June
+6/26/2024,28:14.6,card,ANON-0000-0000-0206,32.82,Americano with Milk,Wednesday,21,June
+6/27/2024,15:43.2,card,ANON-0000-0000-0326,32.82,Americano with Milk,Thursday,9,June
+6/27/2024,11:48.0,card,ANON-0000-0000-0327,27.92,Cortado,Thursday,16,June
+6/27/2024,44:03.4,card,ANON-0000-0000-0328,32.82,Americano with Milk,Thursday,21,June
+6/27/2024,50:31.6,card,ANON-0000-0000-0329,37.72,Cappuccino,Thursday,21,June
+6/28/2024,08:35.0,card,ANON-0000-0000-0141,27.92,Cortado,Friday,8,June
+6/28/2024,51:54.0,card,ANON-0000-0000-0274,23.02,Espresso,Friday,17,June
+6/28/2024,50:55.4,card,ANON-0000-0000-0330,32.82,Americano with Milk,Friday,21,June
+6/28/2024,52:01.9,card,ANON-0000-0000-0331,37.72,Latte,Friday,21,June
+6/28/2024,28:20.0,card,ANON-0000-0000-0332,37.72,Cappuccino,Friday,22,June
+6/29/2024,47:10.3,card,ANON-0000-0000-0097,32.82,Americano with Milk,Saturday,9,June
+6/29/2024,40:19.6,card,ANON-0000-0000-0333,32.82,Americano with Milk,Saturday,11,June
+6/29/2024,41:26.6,card,ANON-0000-0000-0333,32.82,Americano with Milk,Saturday,11,June
+6/29/2024,30:24.4,card,ANON-0000-0000-0334,37.72,Cappuccino,Saturday,12,June
+6/29/2024,31:42.6,card,ANON-0000-0000-0334,37.72,Cappuccino,Saturday,12,June
+6/29/2024,23:43.6,card,ANON-0000-0000-0335,37.72,Cappuccino,Saturday,17,June
+6/29/2024,24:52.4,card,ANON-0000-0000-0335,37.72,Hot Chocolate,Saturday,17,June
+6/29/2024,27:22.4,card,ANON-0000-0000-0009,37.72,Latte,Saturday,21,June
+6/30/2024,28:09.8,card,ANON-0000-0000-0336,37.72,Latte,Sunday,10,June
+6/30/2024,05:50.6,card,ANON-0000-0000-0337,23.02,Espresso,Sunday,13,June
+6/30/2024,54:41.7,card,ANON-0000-0000-0009,37.72,Hot Chocolate,Sunday,16,June
+6/30/2024,04:09.7,card,ANON-0000-0000-0097,32.82,Americano with Milk,Sunday,21,June
+7/1/2024,07:26.8,card,ANON-0000-0000-0012,23.02,Espresso,Monday,18,July
+7/1/2024,56:51.8,card,ANON-0000-0000-0338,37.72,Cappuccino,Monday,18,July
+7/1/2024,57:54.3,card,ANON-0000-0000-0339,37.72,Cappuccino,Monday,18,July
+7/2/2024,42:54.1,card,ANON-0000-0000-0304,32.82,Americano with Milk,Tuesday,10,July
+7/2/2024,45:00.6,card,ANON-0000-0000-0304,27.92,Americano,Tuesday,10,July
+7/2/2024,48:05.2,card,ANON-0000-0000-0019,37.72,Latte,Tuesday,12,July
+7/2/2024,03:13.2,card,ANON-0000-0000-0340,27.92,Americano,Tuesday,14,July
+7/2/2024,31:24.3,card,ANON-0000-0000-0341,32.82,Americano with Milk,Tuesday,16,July
+7/2/2024,02:23.6,card,ANON-0000-0000-0329,32.82,Americano with Milk,Tuesday,22,July
+7/3/2024,51:14.9,card,ANON-0000-0000-0012,32.82,Americano with Milk,Wednesday,13,July
+7/3/2024,01:16.6,card,ANON-0000-0000-0342,37.72,Cappuccino,Wednesday,16,July
+7/3/2024,50:25.2,card,ANON-0000-0000-0343,37.72,Cappuccino,Wednesday,16,July
+7/3/2024,53:15.6,card,ANON-0000-0000-0270,32.82,Americano with Milk,Wednesday,16,July
+7/3/2024,54:22.9,card,ANON-0000-0000-0344,32.82,Americano with Milk,Wednesday,16,July
+7/3/2024,55:31.4,card,ANON-0000-0000-0270,37.72,Latte,Wednesday,16,July
+7/3/2024,59:25.6,card,ANON-0000-0000-0345,23.02,Espresso,Wednesday,16,July
+7/3/2024,59:01.8,card,ANON-0000-0000-0346,37.72,Cappuccino,Wednesday,17,July
+7/3/2024,06:09.1,card,ANON-0000-0000-0009,37.72,Latte,Wednesday,19,July
+7/4/2024,26:23.7,card,ANON-0000-0000-0143,32.82,Americano with Milk,Thursday,10,July
+7/4/2024,27:30.3,card,ANON-0000-0000-0012,27.92,Americano,Thursday,10,July
+7/5/2024,20:28.7,card,ANON-0000-0000-0058,37.72,Cocoa,Friday,12,July
+7/5/2024,43:43.1,card,ANON-0000-0000-0040,32.82,Americano with Milk,Friday,13,July
+7/5/2024,44:43.8,card,ANON-0000-0000-0347,32.82,Americano with Milk,Friday,13,July
+7/5/2024,55:56.3,card,ANON-0000-0000-0348,23.02,Espresso,Friday,18,July
+7/5/2024,55:07.8,card,ANON-0000-0000-0099,27.92,Americano,Friday,19,July
+7/5/2024,11:56.5,card,ANON-0000-0000-0349,23.02,Espresso,Friday,22,July
+7/5/2024,18:03.3,card,ANON-0000-0000-0350,27.92,Americano,Friday,22,July
+7/5/2024,18:56.9,card,ANON-0000-0000-0350,27.92,Americano,Friday,22,July
+7/5/2024,20:01.1,card,ANON-0000-0000-0351,37.72,Cappuccino,Friday,22,July
+7/5/2024,21:09.5,card,ANON-0000-0000-0351,32.82,Americano with Milk,Friday,22,July
+7/6/2024,28:06.8,card,ANON-0000-0000-0352,37.72,Latte,Saturday,10,July
+7/6/2024,15:46.0,card,ANON-0000-0000-0009,32.82,Latte,Saturday,17,July
+7/6/2024,17:01.0,card,ANON-0000-0000-0009,32.82,Latte,Saturday,17,July
+7/6/2024,09:46.1,card,ANON-0000-0000-0012,32.82,Latte,Saturday,19,July
+7/6/2024,10:39.6,card,ANON-0000-0000-0012,27.92,Americano with Milk,Saturday,19,July
+7/7/2024,04:20.2,card,ANON-0000-0000-0303,32.82,Cappuccino,Sunday,9,July
+7/7/2024,14:29.2,card,ANON-0000-0000-0353,27.92,Americano with Milk,Sunday,9,July
+7/7/2024,15:36.8,card,ANON-0000-0000-0353,27.92,Americano with Milk,Sunday,9,July
+7/7/2024,28:48.9,card,ANON-0000-0000-0354,32.82,Cappuccino,Sunday,9,July
+7/7/2024,29:56.2,card,ANON-0000-0000-0354,32.82,Cappuccino,Sunday,9,July
+7/7/2024,56:30.2,card,ANON-0000-0000-0355,32.82,Hot Chocolate,Sunday,14,July
+7/7/2024,57:47.4,card,ANON-0000-0000-0355,32.82,Cocoa,Sunday,14,July
+7/7/2024,07:50.3,card,ANON-0000-0000-0356,32.82,Latte,Sunday,17,July
+7/7/2024,33:27.2,card,ANON-0000-0000-0357,32.82,Cappuccino,Sunday,19,July
+7/7/2024,01:31.7,card,ANON-0000-0000-0358,32.82,Hot Chocolate,Sunday,20,July
+7/7/2024,33:36.3,card,ANON-0000-0000-0359,27.92,Americano with Milk,Sunday,22,July
+7/8/2024,33:07.7,card,ANON-0000-0000-0360,32.82,Latte,Monday,7,July
+7/8/2024,02:50.4,card,ANON-0000-0000-0361,23.02,Americano,Monday,12,July
+7/8/2024,40:24.3,card,ANON-0000-0000-0362,23.02,Americano,Monday,14,July
+7/8/2024,30:35.0,card,ANON-0000-0000-0363,27.92,Americano with Milk,Monday,19,July
+7/8/2024,14:46.2,card,ANON-0000-0000-0019,32.82,Latte,Monday,22,July
+7/9/2024,26:52.1,card,ANON-0000-0000-0333,27.92,Americano with Milk,Tuesday,10,July
+7/9/2024,40:28.8,card,ANON-0000-0000-0276,27.92,Americano with Milk,Tuesday,10,July
+7/9/2024,21:36.1,card,ANON-0000-0000-0194,27.92,Americano with Milk,Tuesday,11,July
+7/9/2024,22:49.9,card,ANON-0000-0000-0194,32.82,Cappuccino,Tuesday,11,July
+7/9/2024,42:59.5,card,ANON-0000-0000-0364,27.92,Americano with Milk,Tuesday,16,July
+7/10/2024,10:41.7,card,ANON-0000-0000-0365,23.02,Americano,Wednesday,11,July
+7/10/2024,28:53.7,card,ANON-0000-0000-0366,27.92,Americano with Milk,Wednesday,12,July
+7/10/2024,13:10.0,card,ANON-0000-0000-0328,32.82,Latte,Wednesday,22,July
+7/11/2024,27:27.6,card,ANON-0000-0000-0367,32.82,Hot Chocolate,Thursday,11,July
+7/11/2024,48:18.7,card,ANON-0000-0000-0368,27.92,Americano with Milk,Thursday,16,July
+7/11/2024,22:13.6,card,ANON-0000-0000-0369,32.82,Latte,Thursday,22,July
+7/11/2024,30:58.5,card,ANON-0000-0000-0370,23.02,Americano,Thursday,22,July
+7/12/2024,03:17.5,card,ANON-0000-0000-0371,23.02,Cortado,Friday,8,July
+7/12/2024,48:33.4,card,ANON-0000-0000-0372,32.82,Hot Chocolate,Friday,11,July
+7/12/2024,33:25.6,card,ANON-0000-0000-0178,32.82,Hot Chocolate,Friday,22,July
+7/12/2024,34:14.3,card,ANON-0000-0000-0177,32.82,Hot Chocolate,Friday,22,July
+7/12/2024,35:29.5,card,ANON-0000-0000-0179,32.82,Hot Chocolate,Friday,22,July
+7/13/2024,38:10.3,card,ANON-0000-0000-0365,32.82,Latte,Saturday,10,July
+7/13/2024,41:38.1,card,ANON-0000-0000-0365,32.82,Latte,Saturday,11,July
+7/14/2024,54:24.3,card,ANON-0000-0000-0373,23.02,Americano,Sunday,10,July
+7/14/2024,55:30.5,card,ANON-0000-0000-0373,27.92,Americano with Milk,Sunday,10,July
+7/14/2024,56:30.3,card,ANON-0000-0000-0373,32.82,Cappuccino,Sunday,10,July
+7/14/2024,57:54.1,card,ANON-0000-0000-0374,32.82,Latte,Sunday,10,July
+7/14/2024,02:11.8,card,ANON-0000-0000-0375,23.02,Americano,Sunday,11,July
+7/14/2024,31:30.0,card,ANON-0000-0000-0376,32.82,Latte,Sunday,22,July
+7/15/2024,33:05.6,card,ANON-0000-0000-0377,32.82,Cappuccino,Monday,7,July
+7/16/2024,23:37.5,card,ANON-0000-0000-0378,27.92,Americano with Milk,Tuesday,12,July
+7/16/2024,29:25.5,card,ANON-0000-0000-0367,32.82,Hot Chocolate,Tuesday,19,July
+7/17/2024,04:59.7,card,ANON-0000-0000-0379,27.92,Americano with Milk,Wednesday,13,July
+7/18/2024,10:13.4,card,ANON-0000-0000-0380,27.92,Americano with Milk,Thursday,11,July
+7/18/2024,11:23.4,card,ANON-0000-0000-0381,18.12,Espresso,Thursday,11,July
+7/18/2024,32:59.6,card,ANON-0000-0000-0059,23.02,Americano,Thursday,11,July
+7/18/2024,34:48.4,card,ANON-0000-0000-0059,23.02,Americano,Thursday,11,July
+7/18/2024,35:51.5,card,ANON-0000-0000-0059,23.02,Cortado,Thursday,11,July
+7/18/2024,23:33.8,card,ANON-0000-0000-0375,32.82,Latte,Thursday,13,July
+7/18/2024,18:23.4,card,ANON-0000-0000-0382,32.82,Cappuccino,Thursday,18,July
+7/18/2024,30:50.6,card,ANON-0000-0000-0009,32.82,Latte,Thursday,19,July
+7/18/2024,19:41.8,card,ANON-0000-0000-0383,32.82,Hot Chocolate,Thursday,21,July
+7/18/2024,21:59.9,card,ANON-0000-0000-0383,32.82,Latte,Thursday,21,July
+7/18/2024,46:18.7,card,ANON-0000-0000-0384,32.82,Latte,Thursday,21,July
+7/19/2024,03:02.3,card,ANON-0000-0000-0375,23.02,Americano,Friday,11,July
+7/19/2024,16:20.5,card,ANON-0000-0000-0385,27.92,Americano with Milk,Friday,11,July
+7/19/2024,58:37.6,card,ANON-0000-0000-0386,32.82,Latte,Friday,12,July
+7/19/2024,59:55.4,card,ANON-0000-0000-0386,27.92,Americano with Milk,Friday,12,July
+7/19/2024,09:20.7,card,ANON-0000-0000-0384,32.82,Latte,Friday,14,July
+7/19/2024,11:22.1,card,ANON-0000-0000-0384,32.82,Cocoa,Friday,14,July
+7/19/2024,36:19.3,card,ANON-0000-0000-0384,32.82,Latte,Friday,16,July
+7/19/2024,37:35.8,card,ANON-0000-0000-0384,32.82,Latte,Friday,16,July
+7/20/2024,05:44.5,card,ANON-0000-0000-0387,23.02,Americano,Saturday,8,July
+7/20/2024,06:48.7,card,ANON-0000-0000-0387,32.82,Latte,Saturday,8,July
+7/20/2024,07:51.4,card,ANON-0000-0000-0387,23.02,Americano,Saturday,8,July
+7/20/2024,00:53.6,card,ANON-0000-0000-0388,32.82,Latte,Saturday,9,July
+7/20/2024,02:27.8,card,ANON-0000-0000-0389,32.82,Latte,Saturday,9,July
+7/20/2024,39:21.0,card,ANON-0000-0000-0390,23.02,Americano,Saturday,10,July
+7/20/2024,15:09.2,card,ANON-0000-0000-0391,32.82,Latte,Saturday,15,July
+7/21/2024,30:55.8,card,ANON-0000-0000-0367,32.82,Cocoa,Sunday,10,July
+7/21/2024,39:28.8,card,ANON-0000-0000-0392,32.82,Cappuccino,Sunday,11,July
+7/21/2024,34:30.8,card,ANON-0000-0000-0393,23.02,Cortado,Sunday,13,July
+7/21/2024,42:31.4,card,ANON-0000-0000-0394,32.82,Latte,Sunday,13,July
+7/22/2024,13:23.1,card,ANON-0000-0000-0375,23.02,Americano,Monday,8,July
+7/22/2024,40:49.6,card,ANON-0000-0000-0395,23.02,Americano,Monday,8,July
+7/22/2024,15:37.3,card,ANON-0000-0000-0385,27.92,Americano with Milk,Monday,10,July
+7/22/2024,44:37.6,card,ANON-0000-0000-0396,32.82,Latte,Monday,16,July
+7/23/2024,12:56.2,card,ANON-0000-0000-0197,32.82,Latte,Tuesday,8,July
+7/23/2024,40:19.0,card,ANON-0000-0000-0395,23.02,Americano,Tuesday,8,July
+7/23/2024,44:53.8,card,ANON-0000-0000-0397,27.92,Americano with Milk,Tuesday,8,July
+7/23/2024,49:25.1,card,ANON-0000-0000-0398,32.82,Cocoa,Tuesday,8,July
+7/23/2024,51:10.4,card,ANON-0000-0000-0399,32.82,Latte,Tuesday,8,July
+7/23/2024,01:45.7,card,ANON-0000-0000-0375,23.02,Americano,Tuesday,9,July
+7/23/2024,03:36.5,card,ANON-0000-0000-0400,27.92,Americano with Milk,Tuesday,10,July
+7/23/2024,20:05.0,card,ANON-0000-0000-0401,27.92,Americano with Milk,Tuesday,15,July
+7/23/2024,21:01.3,card,ANON-0000-0000-0401,32.82,Latte,Tuesday,15,July
+7/23/2024,01:40.6,card,ANON-0000-0000-0009,32.82,Latte,Tuesday,21,July
+7/23/2024,23:13.5,card,ANON-0000-0000-0012,23.02,Americano,Tuesday,21,July
+7/23/2024,24:22.6,card,ANON-0000-0000-0012,23.02,Americano,Tuesday,21,July
+7/24/2024,16:09.8,card,ANON-0000-0000-0097,27.92,Americano with Milk,Wednesday,9,July
+7/24/2024,38:55.0,card,ANON-0000-0000-0385,27.92,Americano with Milk,Wednesday,9,July
+7/24/2024,54:37.5,card,ANON-0000-0000-0402,18.12,Espresso,Wednesday,9,July
+7/24/2024,43:53.1,card,ANON-0000-0000-0379,32.82,Cappuccino,Wednesday,11,July
+7/24/2024,55:13.8,card,ANON-0000-0000-0399,32.82,Latte,Wednesday,13,July
+7/24/2024,45:49.8,card,ANON-0000-0000-0012,18.12,Espresso,Wednesday,14,July
+7/24/2024,18:30.5,card,ANON-0000-0000-0009,32.82,Latte,Wednesday,15,July
+7/24/2024,15:05.7,card,ANON-0000-0000-0205,32.82,Cappuccino,Wednesday,19,July
+7/24/2024,16:59.8,card,ANON-0000-0000-0205,32.82,Cappuccino,Wednesday,19,July
+7/24/2024,17:36.8,card,ANON-0000-0000-0040,27.92,Americano with Milk,Wednesday,21,July
+7/24/2024,18:41.3,card,ANON-0000-0000-0040,23.02,Americano,Wednesday,21,July
+7/24/2024,25:17.5,card,ANON-0000-0000-0012,23.02,Americano,Wednesday,21,July
+7/25/2024,54:47.9,card,ANON-0000-0000-0012,23.02,Americano,Thursday,7,July
+7/25/2024,49:18.4,card,ANON-0000-0000-0399,32.82,Latte,Thursday,8,July
+7/25/2024,29:44.6,card,ANON-0000-0000-0385,27.92,Americano with Milk,Thursday,10,July
+7/25/2024,26:04.7,card,ANON-0000-0000-0375,23.02,Americano,Thursday,11,July
+7/25/2024,25:06.5,card,ANON-0000-0000-0403,32.82,Cappuccino,Thursday,15,July
+7/25/2024,21:00.8,card,ANON-0000-0000-0257,32.82,Cappuccino,Thursday,19,July
+7/25/2024,06:01.3,card,ANON-0000-0000-0404,23.02,Cortado,Thursday,21,July
+7/25/2024,06:50.0,card,ANON-0000-0000-0404,18.12,Espresso,Thursday,21,July
+7/25/2024,38:51.3,card,ANON-0000-0000-0328,23.02,Cortado,Thursday,22,July
+7/25/2024,39:46.8,card,ANON-0000-0000-0405,32.82,Cocoa,Thursday,22,July
+7/26/2024,33:01.3,card,ANON-0000-0000-0406,32.82,Latte,Friday,8,July
+7/26/2024,19:37.4,card,ANON-0000-0000-0097,27.92,Americano with Milk,Friday,9,July
+7/26/2024,20:34.3,card,ANON-0000-0000-0059,18.12,Espresso,Friday,9,July
+7/26/2024,33:11.5,card,ANON-0000-0000-0407,23.02,Cortado,Friday,9,July
+7/26/2024,34:16.6,card,ANON-0000-0000-0407,23.02,Cortado,Friday,9,July
+7/26/2024,59:07.9,card,ANON-0000-0000-0408,32.82,Latte,Friday,9,July
+7/26/2024,00:02.7,card,ANON-0000-0000-0408,32.82,Latte,Friday,10,July
+7/26/2024,47:13.9,card,ANON-0000-0000-0385,27.92,Americano with Milk,Friday,11,July
+7/26/2024,07:01.7,card,ANON-0000-0000-0379,27.92,Americano with Milk,Friday,12,July
+7/26/2024,28:08.0,card,ANON-0000-0000-0339,32.82,Cappuccino,Friday,12,July
+7/26/2024,29:17.7,card,ANON-0000-0000-0339,32.82,Cappuccino,Friday,12,July
+7/26/2024,09:56.1,card,ANON-0000-0000-0409,32.82,Latte,Friday,13,July
+7/26/2024,23:29.3,card,ANON-0000-0000-0410,23.02,Americano,Friday,17,July
+7/26/2024,58:29.2,card,ANON-0000-0000-0411,32.82,Cappuccino,Friday,17,July
+7/26/2024,15:09.6,card,ANON-0000-0000-0009,32.82,Latte,Friday,21,July
+7/26/2024,49:52.3,card,ANON-0000-0000-0412,27.92,Americano with Milk,Friday,22,July
+7/27/2024,09:16.5,card,ANON-0000-0000-0097,32.82,Cappuccino,Saturday,9,July
+7/27/2024,55:31.4,card,ANON-0000-0000-0413,27.92,Americano with Milk,Saturday,11,July
+7/27/2024,25:10.1,card,ANON-0000-0000-0059,27.92,Americano with Milk,Saturday,12,July
+7/27/2024,26:13.2,card,ANON-0000-0000-0040,18.12,Espresso,Saturday,12,July
+7/27/2024,33:23.1,card,ANON-0000-0000-0059,27.92,Americano with Milk,Saturday,12,July
+7/27/2024,28:41.9,card,ANON-0000-0000-0225,18.12,Espresso,Saturday,14,July
+7/27/2024,51:53.2,card,ANON-0000-0000-0077,32.82,Latte,Saturday,14,July
+7/27/2024,02:33.4,card,ANON-0000-0000-0414,32.82,Cappuccino,Saturday,17,July
+7/27/2024,03:39.1,card,ANON-0000-0000-0415,32.82,Cappuccino,Saturday,17,July
+7/27/2024,09:00.4,card,ANON-0000-0000-0416,27.92,Americano with Milk,Saturday,17,July
+7/27/2024,10:08.1,card,ANON-0000-0000-0416,27.92,Americano with Milk,Saturday,17,July
+7/27/2024,55:20.2,card,ANON-0000-0000-0009,32.82,Latte,Saturday,20,July
+7/27/2024,56:23.9,card,ANON-0000-0000-0417,32.82,Cappuccino,Saturday,22,July
+7/28/2024,07:25.9,card,ANON-0000-0000-0012,18.12,Espresso,Sunday,11,July
+7/28/2024,17:54.2,card,ANON-0000-0000-0276,27.92,Americano with Milk,Sunday,14,July
+7/28/2024,18:52.2,card,ANON-0000-0000-0276,32.82,Latte,Sunday,14,July
+7/29/2024,12:06.4,card,ANON-0000-0000-0418,32.82,Latte,Monday,8,July
+7/29/2024,04:48.0,card,ANON-0000-0000-0012,23.02,Americano,Monday,9,July
+7/29/2024,15:46.2,card,ANON-0000-0000-0097,27.92,Americano with Milk,Monday,9,July
+7/29/2024,19:44.1,card,ANON-0000-0000-0003,23.02,Americano,Monday,9,July
+7/29/2024,51:24.7,card,ANON-0000-0000-0419,27.92,Americano with Milk,Monday,9,July
+7/29/2024,58:29.6,card,ANON-0000-0000-0420,32.82,Cappuccino,Monday,9,July
+7/29/2024,43:44.0,card,ANON-0000-0000-0421,32.82,Hot Chocolate,Monday,10,July
+7/29/2024,44:55.8,card,ANON-0000-0000-0421,32.82,Hot Chocolate,Monday,10,July
+7/29/2024,06:31.1,card,ANON-0000-0000-0422,32.82,Cappuccino,Monday,19,July
+7/29/2024,30:16.3,card,ANON-0000-0000-0099,23.02,Americano,Monday,19,July
+7/29/2024,57:34.4,card,ANON-0000-0000-0328,32.82,Cocoa,Monday,21,July
+7/30/2024,41:10.9,card,ANON-0000-0000-0423,27.92,Americano with Milk,Tuesday,7,July
+7/30/2024,05:07.2,card,ANON-0000-0000-0424,23.02,Cortado,Tuesday,8,July
+7/30/2024,20:51.1,card,ANON-0000-0000-0425,32.82,Cappuccino,Tuesday,8,July
+7/30/2024,13:43.2,card,ANON-0000-0000-0097,27.92,Americano with Milk,Tuesday,9,July
+7/30/2024,17:11.1,card,ANON-0000-0000-0141,23.02,Cortado,Tuesday,10,July
+7/30/2024,19:34.2,card,ANON-0000-0000-0276,27.92,Americano with Milk,Tuesday,10,July
+7/30/2024,23:20.1,card,ANON-0000-0000-0250,32.82,Latte,Tuesday,10,July
+7/30/2024,12:07.4,card,ANON-0000-0000-0426,23.02,Americano,Tuesday,11,July
+7/30/2024,13:16.2,card,ANON-0000-0000-0426,18.12,Espresso,Tuesday,11,July
+7/30/2024,14:41.7,card,ANON-0000-0000-0427,27.92,Americano with Milk,Tuesday,11,July
+7/30/2024,16:01.6,card,ANON-0000-0000-0428,27.92,Americano with Milk,Tuesday,11,July
+7/30/2024,30:34.7,card,ANON-0000-0000-0429,27.92,Americano with Milk,Tuesday,11,July
+7/30/2024,31:40.8,card,ANON-0000-0000-0430,27.92,Americano with Milk,Tuesday,11,July
+7/30/2024,08:07.5,card,ANON-0000-0000-0431,32.82,Latte,Tuesday,12,July
+7/30/2024,16:09.6,card,ANON-0000-0000-0432,27.92,Americano with Milk,Tuesday,15,July
+7/30/2024,08:52.9,card,ANON-0000-0000-0433,23.02,Cortado,Tuesday,16,July
+7/30/2024,09:43.6,card,ANON-0000-0000-0433,27.92,Americano with Milk,Tuesday,16,July
+7/30/2024,24:19.9,card,ANON-0000-0000-0434,18.12,Espresso,Tuesday,20,July
+7/30/2024,53:51.9,card,ANON-0000-0000-0097,27.92,Americano with Milk,Tuesday,20,July
+7/30/2024,54:46.3,card,ANON-0000-0000-0097,27.92,Americano with Milk,Tuesday,20,July
+7/30/2024,57:02.3,card,ANON-0000-0000-0347,27.92,Americano with Milk,Tuesday,20,July
+7/30/2024,33:19.2,card,ANON-0000-0000-0435,32.82,Latte,Tuesday,21,July
+7/30/2024,15:21.5,card,ANON-0000-0000-0436,23.02,Americano,Tuesday,22,July
+7/30/2024,16:19.3,card,ANON-0000-0000-0436,32.82,Cappuccino,Tuesday,22,July
+7/31/2024,59:52.1,card,ANON-0000-0000-0423,27.92,Americano with Milk,Wednesday,7,July
+7/31/2024,37:41.9,card,ANON-0000-0000-0437,27.92,Americano with Milk,Wednesday,8,July
+7/31/2024,38:38.2,card,ANON-0000-0000-0437,27.92,Americano with Milk,Wednesday,8,July
+7/31/2024,54:45.3,card,ANON-0000-0000-0388,23.02,Americano,Wednesday,9,July
+7/31/2024,55:45.1,card,ANON-0000-0000-0388,23.02,Americano,Wednesday,9,July
+7/31/2024,58:15.9,card,ANON-0000-0000-0276,27.92,Americano with Milk,Wednesday,9,July
+7/31/2024,11:42.6,card,ANON-0000-0000-0384,32.82,Cocoa,Wednesday,13,July
+7/31/2024,14:00.3,card,ANON-0000-0000-0384,32.82,Latte,Wednesday,13,July
+7/31/2024,24:49.4,card,ANON-0000-0000-0438,27.92,Americano with Milk,Wednesday,13,July
+7/31/2024,48:06.8,card,ANON-0000-0000-0439,23.02,Cortado,Wednesday,17,July
+7/31/2024,04:15.0,card,ANON-0000-0000-0440,32.82,Latte,Wednesday,18,July
+7/31/2024,22:38.9,card,ANON-0000-0000-0441,23.02,Cortado,Wednesday,19,July
+7/31/2024,28:45.1,card,ANON-0000-0000-0009,32.82,Latte,Wednesday,19,July
+7/31/2024,46:42.4,card,ANON-0000-0000-0442,32.82,Cocoa,Wednesday,20,July
+7/31/2024,50:07.4,card,ANON-0000-0000-0443,23.02,Cortado,Wednesday,20,July
+7/31/2024,51:10.4,card,ANON-0000-0000-0443,32.82,Latte,Wednesday,20,July
+7/31/2024,52:14.8,card,ANON-0000-0000-0153,32.82,Cappuccino,Wednesday,20,July
+7/31/2024,53:35.1,card,ANON-0000-0000-0443,23.02,Cortado,Wednesday,20,July
+7/31/2024,59:25.0,card,ANON-0000-0000-0040,27.92,Americano with Milk,Wednesday,20,July
+7/31/2024,26:26.0,card,ANON-0000-0000-0444,32.82,Latte,Wednesday,21,July
+7/31/2024,54:11.8,card,ANON-0000-0000-0445,32.82,Latte,Wednesday,21,July
+7/31/2024,55:16.6,card,ANON-0000-0000-0446,32.82,Latte,Wednesday,21,July
